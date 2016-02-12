@@ -1,0 +1,42 @@
+AJAX http://api.jquery.com/jquery.ajax/
+Amazon Web Services https://aws.amazon.com/
+AngularJS https://angularjs.org/
+Apache Ant http://ant.apache.org/
+BackBoneJS http://backbonejs.org/
+Bootstrap http://getbootstrap.com/
+Bower http://bower.io/
+Coffeescript https://en.wikipedia.org/wiki/CoffeeScript
+CSS https://en.wikipedia.org/wiki/Cascading_Style_Sheets
+EasyMock  http://easymock.org/
+Ember http://emberjs.com/
+ExpressJS http://expressjs.com/
+Git https://git-scm.com/
+Gradle http://gradle.org/
+Grunt http://gruntjs.com/
+Gulp https://github.com/gulpjs/gulp
+HAML https://en.wikipedia.org/wiki/Haml
+HTML http://www.w3schools.com/html/
+Javascript https://en.wikipedia.org/wiki/JavaScript
+Jenkins https://jenkins-ci.org/
+jQuery  http://api.jquery.com/
+jqWidgets http://www.jqwidgets.com/jquery-widgets-documentation/
+JSON http://json.org/ , http://api.jquery.com/jQuery.getJSON/
+Junit http://junit.org/
+KnockoutJS http://knockoutjs.com/documentation/introduction.html
+Maven http://maven.apache.org/index.html
+Meteor.JS http://joshowens.me/what-is-meteor-js/
+Meteor https://www.meteor.com/
+Mockito http://mockito.org/
+MyBatis http://blog.mybatis.org/
+Nexus http://www.sonatype.org/nexus/go/
+NodeJS https://nodejs.org/en/docs/ , https://nodejs.org/docs/latest-v0.12.x/api/
+Npm https://www.npmjs.com/
+Rational Application Developer http://www-03.ibm.com/software/products/en/application
+Rational Software Architect https://www.ibm.com/developerworks/downloads/r/architect/
+ReactJS https://facebook.github.io/react/docs/getting-started.html
+RequireJS http://requirejs.org/
+SailsJS http://sailsjs.org/
+SASS https://en.wikipedia.org/wiki/Sass_(stylesheet_language)
+Udeploy https://developer.ibm.com/urbancode/plugin/ibm-websphere-application-deployment-udeploy-31508185/
+WebSphere Application Serverhttp://www-03.ibm.com/software/products/en/appserv-was
+Yeoman http://yeoman.io/

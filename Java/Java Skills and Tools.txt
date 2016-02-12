@@ -1,0 +1,59 @@
+Agile Development https://en.wikipedia.org/wiki/Agile_software_development 
+Apache ANT http://ant.apache.org/
+Apache Camel http://camel.apache.org/
+Apache CXF http://cxf.apache.org/
+Apache Maven https://maven.apache.org/
+Apache Struts https://struts.apache.org/
+Apache Subversion SVN https://subversion.apache.org/
+Apache Tomcat http://tomcat.apache.org/
+Bash https://www.gnu.org/software/bash/
+DB2 http://www-01.ibm.com/software/data/db2/
+Drools http://www.drools.org/
+EasyMock http://easymock.org/
+Eclipse https://eclipse.org/downloads/
+EJBs Enterprise Javabeans https://en.wikipedia.org/wiki/Enterprise_JavaBeans
+Felix http://felix.apache.org/
+Fitnesse http://www.fitnesse.org/
+Git https://git-scm.com/
+Grails https://grails.org/documentation.html , https://en.wikipedia.org/wiki/Grails_(framework)
+Groovy http://www.groovy-lang.org/documentation.html , https://en.wikipedia.org/wiki/Groovy_(programming_language)
+Hibernate http://hibernate.org/orm/
+IBM ODM http://www-03.ibm.com/software/products/en/odm
+IBM Websphere http://www-03.ibm.com/software/products/en/ibm-mq
+Javabeans https://docs.oracle.com/javase/tutorial/javabeans/
+Java Messaging Service, JMS https://docs.oracle.com/javaee/6/tutorial/doc/bncdq.html
+Java Servlet http://docs.oracle.com/javaee/6/tutorial/doc/bnafd.html
+JAXB http://www.oracle.com/technetwork/articles/javase/index-140168.html
+JAX-RPC https://java.net/projects/jax-rpc/
+Jax-WS https://jax-ws.java.net/
+Jboss http://www.jboss.org/
+JBPM http://www.jbpm.org/
+JDBC http://www.oracle.com/technetwork/java/javase/jdbc/index.html
+Jenkins http://jenkins-ci.org/
+JMS https://en.wikipedia.org/wiki/Java_Message_Service
+JPA http://www.oracle.com/technetwork/java/javaee/tech/persistence-jsp-140049.html
+JSF http://www.oracle.com/technetwork/java/javaee/javaserverfaces-139869.html
+JSP http://www.oracle.com/technetwork/java/javaee/jsp/index.html
+Junit http://junit.org/
+Log4J http://logging.apache.org/log4j/2.x/index.html
+Karaf http://karaf.apache.org/
+Mockito http://mockito.org/
+OSGI https://www.osgi.org/
+PowerMock https://github.com/jayway/powermock
+SOAP https://en.wikipedia.org/wiki/SOAP
+SOAPUI https://www.soapui.org/
+Spring Batch http://projects.spring.io/spring-batch/
+Spring Framework / Tag Library http://projects.spring.io/spring-framework/
+Spring Framework https://spring.io/
+Spring JMS https://spring.io/guides/gs/messaging-jms/
+Spring Mobile http://projects.spring.io/spring-mobile/
+Spring Web Flow http://projects.spring.io/spring-webflow/
+Spring Web Services http://projects.spring.io/spring-ws/
+Sprint Integration http://projects.spring.io/spring-integration/
+Stored Procedures https://docs.oracle.com/javase/tutorial/jdbc/basics/storedprocedures.html
+Team Foundation Server or TFS https://www.visualstudio.com/products/tfs-overview-vs
+UML http://www.uml.org/
+Weblogic http://www.oracle.com/technetwork/middleware/weblogic/overview/index-085209.html
+XML http://www.w3schools.com/xml/
+XML Beans https://xmlbeans.apache.org/
+XML Spy http://www.altova.com/xmlspy.html

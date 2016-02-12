@@ -1,0 +1,33 @@
+.Net
+Agile
+Ajax
+AngularJS
+ASP.NET
+Austomated Testing
+Bootstrap
+C#
+CSS
+Design Patterns
+HTML
+IIS
+Javascript
+jQuery
+MVC
+Object Oriented
+Refactoring
+Requirements
+Rest
+RIA
+Silverlight
+SOA
+SQL
+Stored procedures
+TDD
+UML
+Unit testing
+WCF
+Web applications
+Winforms
+WPF
+XML
+XSL
