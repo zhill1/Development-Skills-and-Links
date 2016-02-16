@@ -1,0 +1,10 @@
+Back end development https://en.wikipedia.org/wiki/Front_and_back_ends
+Big data https://en.wikipedia.org/wiki/Big_data
+Database https://en.wikipedia.org/wiki/Database
+Full stack development http://www.laurencegellert.com/2012/08/what-is-a-full-stack-developer/
+Java https://www.oracle.com/java/index.html
+PHP http://php.net/
+Python https://www.python.org/
+Ruby https://www.ruby-lang.org/en/
+Scala http://www.scala-lang.org/
+Web Development https://en.wikipedia.org/wiki/Web_development

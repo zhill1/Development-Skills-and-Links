@@ -31,6 +31,7 @@ HTML https://en.wikipedia.org/wiki/HTML
 IBM ODM http://www-03.ibm.com/software/products/en/odm
 IBM Websphere http://www-03.ibm.com/software/products/en/ibm-mq
 J2ME https://en.wikipedia.org/wiki/Java_Platform,_Micro_Edition
+Java https://www.oracle.com/java/index.html
 Java Applet https://en.wikipedia.org/wiki/Java_applet
 Javabeans https://docs.oracle.com/javase/tutorial/javabeans/
 Java Messaging Service, JMS https://docs.oracle.com/javaee/6/tutorial/doc/bncdq.html
