@@ -1,0 +1,15 @@
+Amazon Elastic https://aws.amazon.com/ec2/
+Amazon EMR https://aws.amazon.com/elasticmapreduce/
+AngularJS https://angularjs.org/
+Bash Unix Shell https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+Bootstrap http://getbootstrap.com/
+Dependency Injection https://en.wikipedia.org/wiki/Dependency_injection
+Iterative Development https://en.wikipedia.org/wiki/Iterative_and_incremental_development
+Java https://www.oracle.com/java/index.html
+MVC https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
+PostgreSQL http://www.postgresql.org/
+Query https://en.wikipedia.org/wiki/Query_language
+Software as a service https://en.wikipedia.org/wiki/Software_as_a_service
+Spring MVC http://docs.spring.io/spring/docs/current/spring-framework-reference/html/mvc.html
+SQL https://en.wikipedia.org/wiki/SQL
+Ubuntu http://www.ubuntu.com/
