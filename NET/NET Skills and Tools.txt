@@ -1,33 +1,33 @@
-.Net
-Agile
-Ajax
-AngularJS
-ASP.NET
-Austomated Testing
-Bootstrap
-C#
-CSS
-Design Patterns
-HTML
-IIS
-Javascript
-jQuery
-MVC
-Object Oriented
-Refactoring
-Requirements
-Rest
-RIA
-Silverlight
-SOA
-SQL
-Stored procedures
-TDD
-UML
-Unit testing
-WCF
-Web applications
-Winforms
-WPF
-XML
-XSL
+.Net https://msdn.microsoft.com/en-us/library/ff361664
+Agile Development https://en.wikipedia.org/wiki/Agile_software_development
+Ajax https://en.wikipedia.org/wiki/Ajax_(programming)
+AngularJS https://angularjs.org/
+ASP.NET https://msdn.microsoft.com/en-us/library/dd566231.aspx
+Automated Testing https://en.wikipedia.org/wiki/Test_automation
+Bootstrap http://getbootstrap.com/
+C# https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx
+CSS http://www.w3schools.com/css/
+Design Patterns https://en.wikipedia.org/wiki/Software_design_pattern
+HTML https://en.wikipedia.org/wiki/HTML
+IIS https://en.wikipedia.org/wiki/Internet_Information_Services
+Javascript https://en.wikipedia.org/wiki/JavaScript
+jQuery https://en.wikipedia.org/wiki/JQuery
+MVC https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
+Object Oriented https://en.wikipedia.org/wiki/Object-oriented_programming
+Refactoring https://en.wikipedia.org/wiki/Code_refactoring
+Requirements https://en.wikipedia.org/wiki/Software_requirements
+Rest https://en.wikipedia.org/wiki/Representational_state_transfer
+RIA https://en.wikipedia.org/wiki/Rich_Internet_application
+Silverlight https://en.wikipedia.org/wiki/Microsoft_Silverlight
+SOA https://en.wikipedia.org/wiki/Service-oriented_architecture
+SQL https://en.wikipedia.org/wiki/SQL
+Stored procedures https://en.wikipedia.org/wiki/Stored_procedure
+TDD https://en.wikipedia.org/wiki/Test-driven_development
+UML https://en.wikipedia.org/wiki/Unified_Modeling_Language
+Unit testing https://en.wikipedia.org/wiki/Unit_testing
+WCF https://en.wikipedia.org/wiki/Windows_Communication_Foundation
+Web applications https://en.wikipedia.org/wiki/Web_application
+Winforms https://en.wikipedia.org/wiki/Windows_Forms
+WPF https://en.wikipedia.org/wiki/Windows_Presentation_Foundation
+XML https://en.wikipedia.org/wiki/XML
+XSL https://en.wikipedia.org/wiki/XSL
