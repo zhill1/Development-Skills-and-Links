@@ -24,6 +24,8 @@ Nunit http://www.nunit.org/
 Object Oriented https://en.wikipedia.org/wiki/Object-oriented_programming
 OOAD https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design
 OOD https://en.wikipedia.org/wiki/Object-oriented_design
+Oracle Database https://en.wikipedia.org/wiki/Oracle_Database
+PL/SQL https://en.wikipedia.org/wiki/PL/SQL
 PRISM https://en.wikipedia.org/wiki/Publishing_Requirements_for_Industry_Standard_Metadata
 Refactoring https://en.wikipedia.org/wiki/Code_refactoring
 Requirements https://en.wikipedia.org/wiki/Software_requirements
@@ -45,6 +47,7 @@ Unit testing https://en.wikipedia.org/wiki/Unit_testing
 Visual Studio https://en.wikipedia.org/wiki/Microsoft_Visual_Studio
 WCF https://en.wikipedia.org/wiki/Windows_Communication_Foundation
 Web applications https://en.wikipedia.org/wiki/Web_application
+Web services https://en.wikipedia.org/wiki/Web_service
 Winforms https://en.wikipedia.org/wiki/Windows_Forms
 WPF https://en.wikipedia.org/wiki/Windows_Presentation_Foundation
 XML https://en.wikipedia.org/wiki/XML
