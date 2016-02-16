@@ -30,9 +30,11 @@ Hibernate http://hibernate.org/orm/
 HTML https://en.wikipedia.org/wiki/HTML
 IBM ODM http://www-03.ibm.com/software/products/en/odm
 IBM Websphere http://www-03.ibm.com/software/products/en/ibm-mq
+J2EE https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition
 J2ME https://en.wikipedia.org/wiki/Java_Platform,_Micro_Edition
 Java https://www.oracle.com/java/index.html
 Java Applet https://en.wikipedia.org/wiki/Java_applet
+Java EE https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition
 Javabeans https://docs.oracle.com/javase/tutorial/javabeans/
 Java Messaging Service, JMS https://docs.oracle.com/javaee/6/tutorial/doc/bncdq.html
 Javascript https://en.wikipedia.org/wiki/JavaScript
@@ -50,20 +52,26 @@ JSF http://www.oracle.com/technetwork/java/javaee/javaserverfaces-139869.html
 JSP http://www.oracle.com/technetwork/java/javaee/jsp/index.html
 JSTL http://www.tutorialspoint.com/jsp/jsp_standard_tag_library.htm
 Junit http://junit.org/
+Linux https://en.wikipedia.org/wiki/Linux
 Log4J http://logging.apache.org/log4j/2.x/index.html
 Karaf http://karaf.apache.org/
+MEAN https://en.wikipedia.org/wiki/MEAN_(software_bundle)
 Mockito http://mockito.org/
+MongoDB https://www.mongodb.org/
 MS Microsoft SQL https://msdn.microsoft.com/en-us/library/mt590198
 Objective-C https://en.wikipedia.org/wiki/Objective-C
 OOAD Object-Oriented analysis and design https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design
 OSGI https://www.osgi.org/
 Oracle Database https://www.oracle.com/database/index.html
+PL/SQL https://en.wikipedia.org/wiki/PL/SQL
 PowerMock https://github.com/jayway/powermock
 RAD Rational Application Developer (RAD) https://en.wikipedia.org/wiki/Rational_Application_Developer
+Rest https://en.wikipedia.org/wiki/Representational_state_transfer
 SAX http://sax.sourceforge.net/
 SDLC https://en.wikipedia.org/wiki/Software_development_process
 SOAP https://en.wikipedia.org/wiki/SOAP
 SOAPUI https://www.soapui.org/
+Spring https://spring.io/
 Spring Batch http://projects.spring.io/spring-batch/
 Spring Framework / Tag Library http://projects.spring.io/spring-framework/
 Spring Framework https://spring.io/
@@ -82,6 +90,7 @@ UML http://www.uml.org/
 Unified Process https://en.wikipedia.org/wiki/Unified_Process
 Unix http://www.tutorialspoint.com/unix/
 Web 2.0 https://en.wikipedia.org/wiki/Web_2.0
+Web services https://en.wikipedia.org/wiki/Web_service
 Weblogic http://www.oracle.com/technetwork/middleware/weblogic/overview/index-085209.html
 Websphere http://www.ibm.com/software/websphere
 XML http://www.w3schools.com/xml/
