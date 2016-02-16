@@ -1,0 +1,200 @@
+Abductive logic https://en.wikipedia.org/wiki/Abductive_logic_programming
+Abstraction (computer science) https://en.wikipedia.org/wiki/Abstraction_(computer_science)
+Action language https://en.wikipedia.org/wiki/Action_language
+Agent-oriented programming https://en.wikipedia.org/wiki/Agent-oriented_programming
+Ahead-of-time compilation https://en.wikipedia.org/wiki/Ahead-of-time_compilation
+Android runtime https://en.wikipedia.org/wiki/Android_Runtime
+Answer set https://en.wikipedia.org/wiki/Answer_set_programming
+API https://en.wikipedia.org/wiki/Application_programming_interface
+Application Lifecycle management https://en.wikipedia.org/wiki/Application_lifecycle_management
+Application Server https://en.wikipedia.org/wiki/Application_server
+Application software https://en.wikipedia.org/wiki/Application_software
+Application Virtualization https://en.wikipedia.org/wiki/Application_virtualization
+App store https://en.wikipedia.org/wiki/App_store
+Architectural pattern https://en.wikipedia.org/wiki/Architectural_pattern
+Archive file https://en.wikipedia.org/wiki/Archive_file
+Array https://en.wikipedia.org/wiki/Array_programming
+Array programming https://en.wikipedia.org/wiki/Array_programming
+Aspect-oriented https://en.wikipedia.org/wiki/Aspect-oriented_programming
+Assembly language https://en.wikipedia.org/wiki/Assembly_language
+Attribute-oriented https://en.wikipedia.org/wiki/Attribute-oriented_programming
+Automata-based programming https://en.wikipedia.org/wiki/Automata-based_programming
+Automatic https://en.wikipedia.org/wiki/Automatic_programming
+Batch processing https://en.wikipedia.org/wiki/Batch_processing
+Block-structured https://en.wikipedia.org/wiki/Block_(programming)
+Bytecode https://en.wikipedia.org/wiki/Bytecode
+Cell-oriented (spreadsheets) https://en.wikipedia.org/wiki/Spreadsheet
+Checksum https://en.wikipedia.org/wiki/Checksum
+Class-based https://en.wikipedia.org/wiki/Class-based_programming
+Class-based programming https://en.wikipedia.org/wiki/Class-based_programming
+Class https://en.wikipedia.org/wiki/Class_(computer_programming)
+Code reuse https://en.wikipedia.org/wiki/Code_reuse
+Coding theory https://en.wikipedia.org/wiki/Coding_theory
+Command language https://en.wikipedia.org/wiki/Command_language
+Command line interface  https://en.wikipedia.org/wiki/Command-line_interface
+Command line interpreter https://en.wikipedia.org/wiki/Command-line_interface#Command-line_interpreter
+Common Language Runtime https://en.wikipedia.org/wiki/Common_Language_Runtime
+Compiler https://en.wikipedia.org/wiki/Compiler
+Component-based software engineering https://en.wikipedia.org/wiki/Component-based_software_engineering
+Component-based software engineering https://en.wikipedia.org/wiki/Component-based_software_engineering#Software_component
+Component-based usability testing https://en.wikipedia.org/wiki/Component-based_usability_testing
+Computer file https://en.wikipedia.org/wiki/Computer_file
+Computer multitasking https://en.wikipedia.org/wiki/Computer_multitasking
+Computer Program https://en.wikipedia.org/wiki/Computer_program
+Computer programming https://en.wikipedia.org/wiki/Computer_programming
+Computer science https://en.wikipedia.org/wiki/Computer_science
+Concatenative https://en.wikipedia.org/wiki/Concatenative_programming_language
+Concept https://en.wikipedia.org/wiki/Concept_programming
+Concurrent constraint logic https://en.wikipedia.org/wiki/Concurrent_constraint_logic_programming
+Concurrent https://en.wikipedia.org/wiki/Concurrent_object-oriented_programming
+Concurrent logic https://en.wikipedia.org/wiki/Concurrent_logic_programming
+Concurrent Programming https://en.wikipedia.org/wiki/Concurrent_computing
+Constraint https://en.wikipedia.org/wiki/Constraint_programming
+Constraint logic https://en.wikipedia.org/wiki/Constraint_logic_programming
+Control flow https://en.wikipedia.org/wiki/Control_flow
+CPU https://en.wikipedia.org/wiki/Central_processing_unit
+Cross compiler https://en.wikipedia.org/wiki/Cross_compiler
+Crt0 https://en.wikipedia.org/wiki/Crt0
+Data-driven https://en.wikipedia.org/wiki/Data-driven_programming
+Dataflow https://en.wikipedia.org/wiki/Dataflow_programming
+Data processing https://en.wikipedia.org/wiki/Data_processing
+Data structure https://en.wikipedia.org/wiki/Data_structure
+Data type https://en.wikipedia.org/wiki/Data_type
+Declarative (contrast: Imperative) https://en.wikipedia.org/wiki/Declarative_programming
+Dependency injection https://en.wikipedia.org/wiki/Dependency_injection
+Design paradigm https://en.wikipedia.org/wiki/Design_paradigm
+Dialecting https://en.wikipedia.org/wiki/Dialect_(computing)
+Discipline-specific https://en.wikipedia.org/wiki/Service-oriented_modeling#Discipline-specific_modeling
+Domain-specific https://en.wikipedia.org/wiki/Domain-specific_language
+Dynamic https://en.wikipedia.org/wiki/Dynamic_programming_language
+Dynamic recompilation https://en.wikipedia.org/wiki/Dynamic_recompilation
+Emulator https://en.wikipedia.org/wiki/Emulator
+End-user programming https://en.wikipedia.org/wiki/End-user_development
+Error detection and correction https://en.wikipedia.org/wiki/Error_detection_and_correction
+Event-driven https://en.wikipedia.org/wiki/Event-driven_programming
+Executable https://en.wikipedia.org/wiki/Executable
+Execution https://en.wikipedia.org/wiki/Execution_(computing)
+Expression-oriented https://en.wikipedia.org/wiki/Expression-oriented_programming_language
+Feature-oriented https://en.wikipedia.org/wiki/Feature-oriented_programming
+Flow-based https://en.wikipedia.org/wiki/Flow-based_programming
+Formal language https://en.wikipedia.org/wiki/Formal_language
+Front and back ends https://en.wikipedia.org/wiki/Front_and_back_ends
+Function-level (contrast: Value-level) https://en.wikipedia.org/wiki/Function-level_programming
+Functional https://en.wikipedia.org/wiki/Functional_programming
+Functional logic https://en.wikipedia.org/wiki/Functional_logic_programming
+Functional logic https://en.wikipedia.org/wiki/Functional_logic_programming
+Function https://en.wikipedia.org/wiki/Subroutine
+Generic https://en.wikipedia.org/wiki/Generic_programming
+Grammar-oriented https://en.wikipedia.org/wiki/Grammar-oriented_programming
+Homoiconic https://en.wikipedia.org/wiki/Homoiconicity
+Identifier https://en.wikipedia.org/wiki/Identifier#In_computer_languages
+Imperative (contrast: Declarative) https://en.wikipedia.org/wiki/Imperative_programming
+Imperative Programming https://en.wikipedia.org/wiki/Imperative_programming
+Inductive logic https://en.wikipedia.org/wiki/Inductive_logic_programming
+Inductive programming https://en.wikipedia.org/wiki/Inductive_programming
+Industrial automation https://en.wikipedia.org/wiki/Automation#Industrial_automation
+Information theory https://en.wikipedia.org/wiki/Information_theory
+Input/output https://en.wikipedia.org/wiki/Input/output
+Instance https://en.wikipedia.org/wiki/Instance_(computer_science)
+Instruction Set https://en.wikipedia.org/wiki/Instruction_set
+Intentional https://en.wikipedia.org/wiki/Intentional_programming
+Interface description language https://en.wikipedia.org/wiki/Interface_description_language
+Interpreter https://en.wikipedia.org/wiki/Interpreter_(computing)
+Java virtual machine https://en.wikipedia.org/wiki/Java_virtual_machine
+Job control language https://en.wikipedia.org/wiki/Job_Control_Language
+Job stream https://en.wikipedia.org/wiki/Job_stream
+Just-in-time compilation https://en.wikipedia.org/wiki/Just-in-time_compilation
+Kernel https://en.wikipedia.org/wiki/Kernel_(operating_system)
+Language-oriented https://en.wikipedia.org/wiki/Language-oriented_programming
+Linux kernel https://en.wikipedia.org/wiki/Linux_kernel
+Literate https://en.wikipedia.org/wiki/Literate_programming
+Logic https://en.wikipedia.org/wiki/Logic_programming
+Low-level programming language https://en.wikipedia.org/wiki/Low-level_programming_language
+Machine code https://en.wikipedia.org/wiki/Machine_code
+Marshalling https://en.wikipedia.org/wiki/Marshalling_(computer_science)
+Memory address https://en.wikipedia.org/wiki/Memory_address
+Metadata https://en.wikipedia.org/wiki/Metadata
+Metaprogramming https://en.wikipedia.org/wiki/Metaprogramming
+Modular (contrast: Monolithic) https://en.wikipedia.org/wiki/Modular_programming
+Modular programming https://en.wikipedia.org/wiki/Modular_programming
+Multi-user https://en.wikipedia.org/wiki/Multi-user
+Natural language programming https://en.wikipedia.org/wiki/Natural_language_programming
+Node.JS https://en.wikipedia.org/wiki/Node.js
+Non-structured (contrast: Structured) https://en.wikipedia.org/wiki/Non-structured_programming
+Nondeterministic https://en.wikipedia.org/wiki/Nondeterministic_programming
+Object-oriented (OOP) https://en.wikipedia.org/wiki/Object-oriented_programming
+Object-oriented Programming https://en.wikipedia.org/wiki/Object-oriented_programming
+Object code https://en.wikipedia.org/wiki/Object_code
+Object https://en.wikipedia.org/wiki/Object_(computer_science)
+Package manager https://en.wikipedia.org/wiki/Package_manager
+Parallel computing https://en.wikipedia.org/wiki/Parallel_computing
+Parsing https://en.wikipedia.org/wiki/Parsing#Computer_languages
+Point-free style https://en.wikipedia.org/wiki/Tacit_programming
+Policy-based https://en.wikipedia.org/wiki/Policy-based_design
+Probabilistic https://en.wikipedia.org/wiki/Probabilistic_programming_language
+Procedural https://en.wikipedia.org/wiki/Procedural_programming
+Process-oriented https://en.wikipedia.org/wiki/Process-oriented_programming
+Process https://en.wikipedia.org/wiki/Process_(computing)
+Programming Language https://en.wikipedia.org/wiki/Programming_language
+Programming Language theory https://en.wikipedia.org/wiki/Programming_language_theory
+Programming Paradigm https://en.wikipedia.org/wiki/Programming_paradigm
+Prototype-based https://en.wikipedia.org/wiki/Prototype-based_programming
+Purely functional https://en.wikipedia.org/wiki/Purely_functional
+Reactive https://en.wikipedia.org/wiki/Reactive_programming
+Recursive https://en.wikipedia.org/wiki/Recursion_(computer_science)
+Reflective https://en.wikipedia.org/wiki/Reflection_(computer_programming)
+Relational model https://en.wikipedia.org/wiki/Relational_model
+Relativistic programming https://en.wikipedia.org/wiki/Relativistic_programming
+Requirements analysis https://en.wikipedia.org/wiki/Requirements_analysis
+Role-oriented https://en.wikipedia.org/wiki/Role-oriented_programming
+Runtime library https://en.wikipedia.org/wiki/Runtime_library
+Runtime system https://en.wikipedia.org/wiki/Runtime_system
+Scheduling https://en.wikipedia.org/wiki/Scheduling_(computing)
+Scripting language https://en.wikipedia.org/wiki/Scripting_language
+Semantic https://en.wikipedia.org/wiki/Semantic-oriented_programming
+Semantics https://en.wikipedia.org/wiki/Semantics_(computer_science)
+Separation of concerns https://en.wikipedia.org/wiki/Separation_of_concerns
+Serialization https://en.wikipedia.org/wiki/Serialization
+Service-orientationhttps://en.wikipedia.org/wiki/Service-orientation
+Service-oriented architecture SOA https://en.wikipedia.org/wiki/Service-oriented_architecture
+Service-oriented https://en.wikipedia.org/wiki/Service-oriented_architecture
+Service https://en.wikipedia.org/wiki/Service_(systems_architecture)
+Shell https://en.wikipedia.org/wiki/Shell_(computing)
+Software architecture https://en.wikipedia.org/wiki/Software_architecture
+Software as a Service SaaS https://en.wikipedia.org/wiki/Software_as_a_service
+Software Framework https://en.wikipedia.org/wiki/Software_framework
+Software repository https://en.wikipedia.org/wiki/Software_repository
+Software system https://en.wikipedia.org/wiki/Software_system
+Source-to-source compiler https://en.wikipedia.org/wiki/Source-to-source_compiler
+Source code https://en.wikipedia.org/wiki/Source_code
+Specification language https://en.wikipedia.org/wiki/Specification_language
+Statement https://en.wikipedia.org/wiki/Statement_(computer_science)
+Structured (contrast: Non-structured) https://en.wikipedia.org/wiki/Structured_programming
+Subject-oriented https://en.wikipedia.org/wiki/Subject-oriented_programming
+Subroutine https://en.wikipedia.org/wiki/Subroutine
+System analysis https://en.wikipedia.org/wiki/Systems_analysis
+System https://en.wikipedia.org/wiki/System
+Systems design https://en.wikipedia.org/wiki/Systems_design
+System Software https://en.wikipedia.org/wiki/System_software
+Task https://en.wikipedia.org/wiki/Task_(computing)
+Template https://en.wikipedia.org/wiki/Template_metaprogramming
+Thin client https://en.wikipedia.org/wiki/Thin_client
+Thread https://en.wikipedia.org/wiki/Thread_(computing)
+Time-driven https://en.wikipedia.org/wiki/Time-driven_programming
+Time-sharing https://en.wikipedia.org/wiki/Time-sharing
+Tracing just-in-time compilation https://en.wikipedia.org/wiki/Tracing_just-in-time_compilation
+Traffic flow https://en.wikipedia.org/wiki/Traffic_flow_(computer_networking)
+Unix-like https://en.wikipedia.org/wiki/Unix-like
+Unix https://en.wikipedia.org/wiki/Unix
+Unix Shell https://en.wikipedia.org/wiki/Unix_shell
+Usability https://en.wikipedia.org/wiki/Usability
+User https://en.wikipedia.org/wiki/User_(computing)
+User interface https://en.wikipedia.org/wiki/User_interface
+Value-level (contrast: Function-level) https://en.wikipedia.org/wiki/Value-level_programming
+Value https://en.wikipedia.org/wiki/Value_(computer_science)
+Variable https://en.wikipedia.org/wiki/Variable_(computer_science)
+Virtual machine https://en.wikipedia.org/wiki/Virtual_machine
+Web Browser https://en.wikipedia.org/wiki/Web_browser
+Web resource https://en.wikipedia.org/wiki/Web_resource
+Web service https://en.wikipedia.org/wiki/Web_service
+Zend engine https://en.wikipedia.org/wiki/Zend_Engine
