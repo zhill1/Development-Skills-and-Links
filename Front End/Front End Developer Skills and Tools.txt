@@ -1,14 +1,19 @@
+Accessible Rich Interface Application https://www.w3.org/WAI/intro/aria
 AJAX http://api.jquery.com/jquery.ajax/
 Amazon Web Services https://aws.amazon.com/
 AngularJS https://angularjs.org/
 Apache Ant http://ant.apache.org/
+Apache Struts https://struts.apache.org/
+Apache Tiles https://tiles.apache.org/
 BackBoneJS http://backbonejs.org/
 Bootstrap http://getbootstrap.com/
 Bower http://bower.io/
 Browser API https://developer.mozilla.org/en-US/docs/Web/API/Using_the_Browser_API
 Coffeescript https://en.wikipedia.org/wiki/CoffeeScript
+Compass http://compass-style.org/
 CSS https://en.wikipedia.org/wiki/Cascading_Style_Sheets
 CSS3 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+CSS Media Queries https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
 EasyMock  http://easymock.org/
 Ember http://emberjs.com/
 ES6 Javascript http://weblogs.asp.net/dwahlin/getting-started-with-es6-%E2%80%93-the-next-version-of-javascript
@@ -20,6 +25,7 @@ Gulp https://github.com/gulpjs/gulp
 HAML https://en.wikipedia.org/wiki/Haml
 HTML http://www.w3schools.com/html/
 HTML5 https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+Java https://www.oracle.com/java/index.html
 Javascript https://en.wikipedia.org/wiki/JavaScript
 Javascript Classes https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 Javascript Closures https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
@@ -28,10 +34,14 @@ Javascript Functional Programming http://srirangan.net/2011-12-functional-progra
 Javascript Modules https://developer.mozilla.org/en-US/docs/Mozilla/JavaScript_code_modules/Using
 Jenkins https://jenkins-ci.org/
 jQuery  http://api.jquery.com/
+jQuery Mobile https://jquerymobile.com/
 jqWidgets http://www.jqwidgets.com/jquery-widgets-documentation/
 JSON http://json.org/ , http://api.jquery.com/jQuery.getJSON/
+JSP http://www.oracle.com/technetwork/java/javaee/jsp/index.html
+JSTL http://www.tutorialspoint.com/jsp/jsp_standard_tag_library.htm
 Junit http://junit.org/
 KnockoutJS http://knockoutjs.com/documentation/introduction.html
+LESS https://en.wikipedia.org/wiki/Less_(stylesheet_language)
 Maven http://maven.apache.org/index.html
 Meteor.JS http://joshowens.me/what-is-meteor-js/
 Meteor https://www.meteor.com/
@@ -44,9 +54,20 @@ Rational Application Developer http://www-03.ibm.com/software/products/en/applic
 Rational Software Architect https://www.ibm.com/developerworks/downloads/r/architect/
 ReactJS https://facebook.github.io/react/docs/getting-started.html
 RequireJS http://requirejs.org/
+Responsive Web Design https://en.wikipedia.org/wiki/Responsive_web_design
 SailsJS http://sailsjs.org/
 SASS https://en.wikipedia.org/wiki/Sass_(stylesheet_language)
+Sencha https://www.sencha.com/
+SCSS https://en.wikipedia.org/wiki/Sass_(stylesheet_language)
 Single Page Application https://en.wikipedia.org/wiki/Single-page_application
+Spring Mobile http://projects.spring.io/spring-mobile/
+Spring MVC http://docs.spring.io/spring/docs/current/spring-framework-reference/html/mvc.html
+Spring Taglib http://docs.spring.io/spring/docs/current/spring-framework-reference/html/view.html
+Spring Web Flow http://projects.spring.io/spring-webflow/
+Struts MVC http://www.tutorialspoint.com/struts_2/struts_architecture.htm
 Udeploy https://developer.ibm.com/urbancode/plugin/ibm-websphere-application-deployment-udeploy-31508185/
+Web Accessibility https://en.wikipedia.org/wiki/Web_accessibility
+Web Content Accessibility Guidelines https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines
 WebSphere Application Serverhttp://www-03.ibm.com/software/products/en/appserv-was
+XHTML https://en.wikipedia.org/wiki/XHTML
 Yeoman http://yeoman.io/

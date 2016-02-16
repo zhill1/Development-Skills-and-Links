@@ -6,6 +6,7 @@ Apache CXF http://cxf.apache.org/
 Apache Maven https://maven.apache.org/
 Apache Struts https://struts.apache.org/
 Apache Subversion SVN https://subversion.apache.org/
+Apache Tiles https://tiles.apache.org/
 Apache Tomcat http://tomcat.apache.org/
 Bash https://www.gnu.org/software/bash/
 C https://en.wikipedia.org/wiki/C_(programming_language)
@@ -46,6 +47,7 @@ JMS https://en.wikipedia.org/wiki/Java_Message_Service
 JPA http://www.oracle.com/technetwork/java/javaee/tech/persistence-jsp-140049.html
 JSF http://www.oracle.com/technetwork/java/javaee/javaserverfaces-139869.html
 JSP http://www.oracle.com/technetwork/java/javaee/jsp/index.html
+JSTL http://www.tutorialspoint.com/jsp/jsp_standard_tag_library.htm
 Junit http://junit.org/
 Log4J http://logging.apache.org/log4j/2.x/index.html
 Karaf http://karaf.apache.org/
@@ -66,11 +68,14 @@ Spring Framework / Tag Library http://projects.spring.io/spring-framework/
 Spring Framework https://spring.io/
 Spring JMS https://spring.io/guides/gs/messaging-jms/
 Spring Mobile http://projects.spring.io/spring-mobile/
+Spring MVC http://docs.spring.io/spring/docs/current/spring-framework-reference/html/mvc.html
+Spring Taglib http://docs.spring.io/spring/docs/current/spring-framework-reference/html/view.html
 Spring Web Flow http://projects.spring.io/spring-webflow/
 Spring Web Services http://projects.spring.io/spring-ws/
 Sprint Integration http://projects.spring.io/spring-integration/
 SQL https://en.wikipedia.org/wiki/SQL
 Stored Procedures https://docs.oracle.com/javase/tutorial/jdbc/basics/storedprocedures.html
+Struts MVC http://www.tutorialspoint.com/struts_2/struts_architecture.htm
 Team Foundation Server or TFS https://www.visualstudio.com/products/tfs-overview-vs
 UML http://www.uml.org/
 Unified Process https://en.wikipedia.org/wiki/Unified_Process
