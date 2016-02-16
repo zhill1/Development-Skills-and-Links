@@ -8,9 +8,13 @@ Apache Struts https://struts.apache.org/
 Apache Subversion SVN https://subversion.apache.org/
 Apache Tomcat http://tomcat.apache.org/
 Bash https://www.gnu.org/software/bash/
+C https://en.wikipedia.org/wiki/C_(programming_language)
+C++ https://en.wikipedia.org/wiki/C%2B%2B
 Cactus http://jakarta.apache.org/cactus/
 Clear Case http://www-03.ibm.com/software/products/en/clearcase
 DB2 http://www-01.ibm.com/software/data/db2/
+Dojo https://dojotoolkit.org/
+DOM https://en.wikipedia.org/wiki/Document_Object_Model
 Drools http://www.drools.org/
 EasyMock http://easymock.org/
 Eclipse https://eclipse.org/downloads/
@@ -20,11 +24,16 @@ Fitnesse http://www.fitnesse.org/
 Git https://git-scm.com/
 Grails https://grails.org/documentation.html , https://en.wikipedia.org/wiki/Grails_(framework)
 Groovy http://www.groovy-lang.org/documentation.html , https://en.wikipedia.org/wiki/Groovy_(programming_language)
+GWT http://www.gwtproject.org/
 Hibernate http://hibernate.org/orm/
+HTML https://en.wikipedia.org/wiki/HTML
 IBM ODM http://www-03.ibm.com/software/products/en/odm
 IBM Websphere http://www-03.ibm.com/software/products/en/ibm-mq
+J2ME https://en.wikipedia.org/wiki/Java_Platform,_Micro_Edition
+Java Applet https://en.wikipedia.org/wiki/Java_applet
 Javabeans https://docs.oracle.com/javase/tutorial/javabeans/
 Java Messaging Service, JMS https://docs.oracle.com/javaee/6/tutorial/doc/bncdq.html
+Javascript https://en.wikipedia.org/wiki/JavaScript
 Java Servlet http://docs.oracle.com/javaee/6/tutorial/doc/bnafd.html
 JAXB http://www.oracle.com/technetwork/articles/javase/index-140168.html
 JAX-RPC https://java.net/projects/jax-rpc/
@@ -42,10 +51,14 @@ Log4J http://logging.apache.org/log4j/2.x/index.html
 Karaf http://karaf.apache.org/
 Mockito http://mockito.org/
 MS Microsoft SQL https://msdn.microsoft.com/en-us/library/mt590198
+Objective-C https://en.wikipedia.org/wiki/Objective-C
+OOAD Object-Oriented analysis and design https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design
 OSGI https://www.osgi.org/
 Oracle Database https://www.oracle.com/database/index.html
 PowerMock https://github.com/jayway/powermock
 RAD Rational Application Developer (RAD) https://en.wikipedia.org/wiki/Rational_Application_Developer
+SAX http://sax.sourceforge.net/
+SDLC https://en.wikipedia.org/wiki/Software_development_process
 SOAP https://en.wikipedia.org/wiki/SOAP
 SOAPUI https://www.soapui.org/
 Spring Batch http://projects.spring.io/spring-batch/
@@ -56,12 +69,17 @@ Spring Mobile http://projects.spring.io/spring-mobile/
 Spring Web Flow http://projects.spring.io/spring-webflow/
 Spring Web Services http://projects.spring.io/spring-ws/
 Sprint Integration http://projects.spring.io/spring-integration/
+SQL https://en.wikipedia.org/wiki/SQL
 Stored Procedures https://docs.oracle.com/javase/tutorial/jdbc/basics/storedprocedures.html
 Team Foundation Server or TFS https://www.visualstudio.com/products/tfs-overview-vs
 UML http://www.uml.org/
 Unified Process https://en.wikipedia.org/wiki/Unified_Process
+Unix http://www.tutorialspoint.com/unix/
+Web 2.0 https://en.wikipedia.org/wiki/Web_2.0
 Weblogic http://www.oracle.com/technetwork/middleware/weblogic/overview/index-085209.html
 Websphere http://www.ibm.com/software/websphere
 XML http://www.w3schools.com/xml/
 XML Beans https://xmlbeans.apache.org/
 XML Spy http://www.altova.com/xmlspy.html
+XSLT https://en.wikipedia.org/wiki/XSLT
+Yui http://yuilibrary.com/
