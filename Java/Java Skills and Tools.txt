@@ -34,6 +34,7 @@ J2EE https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition
 J2ME https://en.wikipedia.org/wiki/Java_Platform,_Micro_Edition
 Java https://www.oracle.com/java/index.html
 Java Applet https://en.wikipedia.org/wiki/Java_applet
+Java Application Servers https://en.wikipedia.org/wiki/Application_server#Java_application_servers
 Java EE https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition
 Javabeans https://docs.oracle.com/javase/tutorial/javabeans/
 Java Messaging Service, JMS https://docs.oracle.com/javaee/6/tutorial/doc/bncdq.html
@@ -61,8 +62,11 @@ MongoDB https://www.mongodb.org/
 MS Microsoft SQL https://msdn.microsoft.com/en-us/library/mt590198
 Objective-C https://en.wikipedia.org/wiki/Objective-C
 OOAD Object-Oriented analysis and design https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design
+Operating Systems https://en.wikipedia.org/wiki/Operating_system
 OSGI https://www.osgi.org/
 Oracle Database https://www.oracle.com/database/index.html
+ORM Object Relational Mapping https://en.wikipedia.org/wiki/Object-relational_mapping
+Performance Tuning https://en.wikipedia.org/wiki/Performance_tuning
 PL/SQL https://en.wikipedia.org/wiki/PL/SQL
 PowerMock https://github.com/jayway/powermock
 RAD Rational Application Developer (RAD) https://en.wikipedia.org/wiki/Rational_Application_Developer
@@ -84,8 +88,10 @@ Spring Web Services http://projects.spring.io/spring-ws/
 Sprint Integration http://projects.spring.io/spring-integration/
 SQL https://en.wikipedia.org/wiki/SQL
 Stored Procedures https://docs.oracle.com/javase/tutorial/jdbc/basics/storedprocedures.html
+Stress Testing https://en.wikipedia.org/wiki/Stress_testing_(software)
 Struts MVC http://www.tutorialspoint.com/struts_2/struts_architecture.htm
 Team Foundation Server or TFS https://www.visualstudio.com/products/tfs-overview-vs
+Test Automation https://en.wikipedia.org/wiki/Test_automation
 UML http://www.uml.org/
 Unified Process https://en.wikipedia.org/wiki/Unified_Process
 Unix http://www.tutorialspoint.com/unix/

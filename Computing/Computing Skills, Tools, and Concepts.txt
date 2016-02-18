@@ -126,6 +126,7 @@ Object-oriented (OOP) https://en.wikipedia.org/wiki/Object-oriented_programming
 Object-oriented Programming https://en.wikipedia.org/wiki/Object-oriented_programming
 Object code https://en.wikipedia.org/wiki/Object_code
 Object https://en.wikipedia.org/wiki/Object_(computer_science)
+Operating System https://en.wikipedia.org/wiki/Operating_system
 Package manager https://en.wikipedia.org/wiki/Package_manager
 Parallel computing https://en.wikipedia.org/wiki/Parallel_computing
 Parsing https://en.wikipedia.org/wiki/Parsing#Computer_languages
