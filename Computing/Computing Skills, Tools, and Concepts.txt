@@ -115,6 +115,7 @@ Marshalling https://en.wikipedia.org/wiki/Marshalling_(computer_science)
 Memory address https://en.wikipedia.org/wiki/Memory_address
 Metadata https://en.wikipedia.org/wiki/Metadata
 Metaprogramming https://en.wikipedia.org/wiki/Metaprogramming
+Middleware https://en.wikipedia.org/wiki/Middleware
 Modular (contrast: Monolithic) https://en.wikipedia.org/wiki/Modular_programming
 Modular programming https://en.wikipedia.org/wiki/Modular_programming
 Multi-user https://en.wikipedia.org/wiki/Multi-user

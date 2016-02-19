@@ -49,8 +49,8 @@ JDBC http://www.oracle.com/technetwork/java/javase/jdbc/index.html
 Jenkins http://jenkins-ci.org/
 JMS https://en.wikipedia.org/wiki/Java_Message_Service
 JPA http://www.oracle.com/technetwork/java/javaee/tech/persistence-jsp-140049.html
-JSF http://www.oracle.com/technetwork/java/javaee/javaserverfaces-139869.html
-JSP http://www.oracle.com/technetwork/java/javaee/jsp/index.html
+JSF or JavaServer Faces http://www.oracle.com/technetwork/java/javaee/javaserverfaces-139869.html
+JSP or JavaServer Pages http://www.oracle.com/technetwork/java/javaee/jsp/index.html
 JSTL http://www.tutorialspoint.com/jsp/jsp_standard_tag_library.htm
 Junit http://junit.org/
 Linux https://en.wikipedia.org/wiki/Linux
