@@ -1,0 +1,21 @@
+Advanced Analytics with Spark: Patterns for Learning from Data at Scale http://amzn.com/1491912766
+Big Data: Principles and best practices of scalable realtime data systems http://amzn.com/1617290343
+Data Analytics Made Accessible http://amzn.com/B00K2I2JL8
+Database Systems: Design, Implementation, & Management http://amzn.com/1285196147
+Data Science for Business: What you need to know about data mining and data-analytic thinking http://amzn.com/1449361323
+Data Science for Business: What you need to know about data mining and data-analytic thinking http://amzn.com/B00E6EQ3X4
+Data Science from Scratch: First Principles with Python 1st Edition http://amzn.com/149190142X
+Data Smart: Using Data Science to Transform Information into Insight http://amzn.com/111866146X
+Deep Learning: A Practitioner's Approach http://amzn.com/1491914254
+Hadoop: The Definitive Guide 4th Edition http://amzn.com/1491901632
+Learning Spark: Lightning-Fast Big Data Analysis http://amzn.com/1449358624
+Learning Spark: Lightning-Fast Big Data Analysis http://amzn.com/B00SW0TY8O
+Microsoft SQL Server 2012 T-SQL Fundamentals (Developer Reference) http://amzn.com/0735658145
+R Cookbook (O'Reilly Cookbooks) http://amzn.com/0596809158
+R Cookbook (O'Reilly Cookbooks) http://amzn.com/0596809158
+R in Action: Data Analysis and Graphics with R http://amzn.com/1617291382
+Show Me the Numbers: Designing Tables and Graphs to Enlighten http://amzn.com/0970601972
+SQL in 10 Minutes, Sams Teach Yourself (4th Edition) http://amzn.com/0672336073
+SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL http://amzn.com/0321992474
+The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics) http://amzn.com/0387848576
+The Language of SQL: How to Access Data in Relational Databases http://amzn.com/143545751X

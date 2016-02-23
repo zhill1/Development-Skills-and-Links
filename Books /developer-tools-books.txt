@@ -1,0 +1,10 @@
+Classic Shell Scripting http://amzn.com/0596005954
+How Linux Works: What Every Superuser Should Know Second Edition http://amzn.com/1593275676
+Learning the bash Shell: Unix Shell Programming (In a Nutshell (O'Reilly)) http://amzn.com/0596009658
+Learn Windows PowerShell 3 in a Month of Lunches http://amzn.com/1617291080
+Linux: Linux Command Line, Cover all essential Linux commands. A complete introduction to Linux Operating System, Linux Kernel, For Beginners, Learn Linux in easy steps, Fast!: A Beginner's Guide http://amzn.com/B00OP0TZDY
+Linux iptables Pocket Reference http://amzn.com/0596005695
+The Linux Command Line: A Complete Introduction 1st Edition http://amzn.com/1593273894
+tmux: Productive Mouse-Free Development http://amzn.com/1934356964
+UNIX and Linux System Administration Handbook, 4th Edition http://amzn.com/0131480057
+Version Control with Git: Powerful tools and techniques for collaborative software development http://amzn.com/1449316387

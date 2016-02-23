@@ -1,0 +1,5 @@
+2015 AWS Cloud Dictionary & Handbook: Reccomnded for Associate Architect and Solution AWS Certifications http://amzn.com/B00UY5DWCO
+Amazon Web Services in Action http://amzn.com/1617292885
+Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5 (Learning Php, Mysql, Javascript, Css & Html5) http://amzn.com/1491918667
+Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics http://amzn.com/1449319270
+Web Design with HTML, CSS, JavaScript and jQuery Set 1st Edition http://amzn.com/1118907442

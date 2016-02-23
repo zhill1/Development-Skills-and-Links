@@ -1,0 +1,10 @@
+Building Microservices 1st Edition http://amzn.com/1491950358
+Computer Organization and Design, Fifth Edition: The Hardware/Software Interface (The Morgan Kaufmann Series in Computer Architecture and Design) http://amzn.com/0124077269
+Design Patterns: Elements of Reusable Object-Oriented Software http://amzn.com/0201633612
+Design Patterns: The Easy Way, w/ Java Standard Solutions for Everyday Programming Problems; Great for: Game Programming, System Administration, App Programming, Automation & Database Systems http://amzn.com/B0180FSQFM
+Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions 1st Edition http://amzn.com/0321200683
+Head First Design Patterns http://amzn.com/0596007124
+Patterns, Principles, and Practices of Domain-Driven Design http://amzn.com/1118714709
+Patterns of Enterprise Application Architecture http://amzn.com/0321127420
+Patterns of Software: Tales from the Software Community http://amzn.com/0195121236
+Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science) second edition Edition http://amzn.com/0262510871

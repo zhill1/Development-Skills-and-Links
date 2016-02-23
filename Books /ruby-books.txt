@@ -1,0 +1,2 @@
+Practical Object-Oriented Design in Ruby: An Agile Primer (Addison-Wesley Professional Ruby) http://amzn.com/0321721330
+The Well-Grounded Rubyist http://amzn.com/1617291692

@@ -1,0 +1,9 @@
+Automate the Boring Stuff with Python: Practical Programming for Total Beginners http://amzn.com/B00WJ049VU
+Data Science from Scratch: First Principles with Python http://amzn.com/149190142X
+Fluent Python 1st Edition http://amzn.com/1491946008
+Learning Python, 5th Edition http://amzn.com/1449355730
+Programming Python Fourth Edition http://amzn.com/0596158106
+Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython http://amzn.com/1449319793
+Python for Finance: Analyze Big Financial Data http://amzn.com/1491945281
+Python Machine Learning http://amzn.com/1783555130
+Python Pocket Reference (Pocket Reference (O'Reilly)) http://amzn.com/1449357016

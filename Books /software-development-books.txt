@@ -1,0 +1,6 @@
+Clean Code: A Handbook of Agile Software Craftsmanship http://amzn.com/0132350882
+Code Complete: A Practical Handbook of Software Construction, Second Edition 2nd Edition http://amzn.com/0735619670
+Design Sprint: A Practical Guidebook for Building Great Digital Products http://amzn.com/1491923172
+Essential Scrum: A Practical Guide to the Most Popular Agile Process (Addison-Wesley Signature Series (Cohn)) http://amzn.com/0137043295
+Refactoring: Improving the Design of Existing Code 1st Edition http://amzn.com/0201485672
+The Art of Computer Programming, Volumes 1-4A Boxed Set 1st Edition http://amzn.com/0321751043

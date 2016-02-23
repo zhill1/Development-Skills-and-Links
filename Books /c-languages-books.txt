@@ -1,0 +1,6 @@
+C# 5.0 in a Nutshell: The Definitive Reference Fifth Edition http://amzn.com/1449320104
+C# Design Pattern Essentials http://amzn.com/0956575862
+Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14 1st Edition http://amzn.com/1491903996
+The C Programming Language 2nd Edition http://amzn.com/0131103628
+C# 6.0 in a Nutshell: The Definitive Reference http://amzn.com/1491927062
+Objective-C Programming: The Big Nerd Ranch Guide http://amzn.com/032194206X

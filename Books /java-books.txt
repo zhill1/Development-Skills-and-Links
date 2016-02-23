@@ -1,0 +1,7 @@
+Effective Java (2nd Edition) http://amzn.com/0321356683
+Head First Android Development http://amzn.com/B00ZVG1REQ
+Head First Java, 2nd Edition http://amzn.com/0596009208
+Java 8 in Action: Lambdas, Streams, and functional-style programming http://amzn.com/1617291994
+Java 8: The Fundamentals http://amzn.com/B00J1BQ4G8
+Java: A Beginner's Guide, Sixth Edition 6th Edition http://amzn.com/0071809252
+Java Interview Guide: How to Build Confidence With a Solid Understanding of Core Java Principles http://amzn.com/B015HF9SJQ
