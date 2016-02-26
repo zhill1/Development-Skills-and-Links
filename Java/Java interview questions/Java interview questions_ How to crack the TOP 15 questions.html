@@ -1,0 +1,917 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Java interview questions: How to crack the TOP 15 questions</title><meta name="description" content="Meta: Don’t go into your Java interview unprepared! Here are the top 15 Java interview questions that you might get during a job interview." />
+<meta name="robots" content="noodp,noydir" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/><link rel="alternate" type="application/rss+xml" title="Udemy Blog &raquo; Feed" href="https://blog.udemy.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Udemy Blog &raquo; Comments Feed" href="https://blog.udemy.com/comments/feed/" />
+<link rel="canonical" href="https://blog.udemy.com/java-interview-questions/" />
+<!-- This site is powered by Shareaholic - https://shareaholic.com -->
+<script type='text/javascript' data-cfasync='false'>
+  //<![CDATA[
+    _SHR_SETTINGS = {"endpoints":{"local_recs_url":"https:\/\/blog.udemy.com\/wp-admin\/admin-ajax.php?action=shareaholic_permalink_related","share_counts_url":"https:\/\/blog.udemy.com\/wp-admin\/admin-ajax.php?action=shareaholic_share_counts_api"}};
+  //]]>
+</script>
+<script type='text/javascript'
+        src='//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js'
+        data-shr-siteid='c6fe6c191302e91808fdf06127767340'
+        data-cfasync='false'
+        async='async' >
+</script>
+
+<!-- Shareaholic Content Tags -->
+<meta name='shareaholic:site_name' content='Udemy Blog' />
+<meta name='shareaholic:language' content='en-US' />
+<meta name='shareaholic:url' content='https://blog.udemy.com/java-interview-questions/' />
+<meta name='shareaholic:keywords' content='for students, technology' />
+<meta name='shareaholic:article_published_time' content='2015-10-03T22:06:58+00:00' />
+<meta name='shareaholic:article_modified_time' content='2016-02-19T22:47:14+00:00' />
+<meta name='shareaholic:shareable_page' content='true' />
+<meta name='shareaholic:article_author_name' content='Kasia Mikoluk' />
+<meta name='shareaholic:site_id' content='c6fe6c191302e91808fdf06127767340' />
+<meta name='shareaholic:wp_version' content='7.8.0.1' />
+<meta name='shareaholic:image' content='https://blog.udemy.com/wp-content/uploads/2013/06/photodune-4652712-occupation-s-620x415.jpg' />
+<!-- Shareaholic Content Tags End -->
+
+<!-- Shareaholic Open Graph Tags -->
+<meta property='og:image' content='https://blog.udemy.com/wp-content/uploads/2013/06/photodune-4652712-occupation-s-620x415.jpg' />
+<!-- Shareaholic Open Graph Tags End -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/blog.udemy.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='epik-theme-css'  href='https://blog.udemy.com/wp-content/themes/epik/style.css?ver=2.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='digg-digg-css'  href='https://blog.udemy.com/wp-content/plugins/digg-digg/css/diggdigg-style.css?ver=5.3.6' type='text/css' media='screen' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='https://blog.udemy.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='udemy-blog-css'  href='https://blog.udemy.com/wp-content/themes/epik/css/udemy-blog.css?ver=1456498428' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css?ver=v1' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css?ver=v1' type='text/css' media='all' />
+<link rel='stylesheet' id='easy_table_style-css'  href='https://blog.udemy.com/wp-content/plugins/easy-table/themes/default/style.css?ver=1.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://blog.udemy.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='button-shortcode-styles-css'  href='https://blog.udemy.com/wp-content/plugins/easy-shortcode-buttons/buttons-style.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fbSEOStylesheet-css'  href='https://blog.udemy.com/wp-content/plugins/seo-facebook-comments/assets/fbseo-style.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fbSEOwpcomments-css'  href='https://blog.udemy.com/wp-content/plugins/seo-facebook-comments/assets/wpcomments.css?ver=4.4.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://blog.udemy.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='https://blog.udemy.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js?ver=0.28'></script>
+<script type='text/javascript' src='https://blog.udemy.com/wp-content/themes/epik/js/ud.jquery.ready.js?ver=1456498428'></script>
+<script type='text/javascript' src='https://blog.udemy.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.4.9'></script>
+<link rel='https://api.w.org/' href='https://blog.udemy.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://blog.udemy.com/xmlrpc.php?rsd" />
+<link rel="alternate" type="application/json+oembed" href="https://blog.udemy.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fblog.udemy.com%2Fjava-interview-questions%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://blog.udemy.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fblog.udemy.com%2Fjava-interview-questions%2F&#038;format=xml" />
+<style>.bk-button-wrapper .customButtonA {
+-moz-box-shadow:inset 0px 1px 2px 0px #d9fbbe;
+	-webkit-box-shadow:inset 0px 1px 2px 0px #d9fbbe;
+	box-shadow:inset 0px 1px 2px 0px #d9fbbe;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #b8e356), color-stop(1, #a5cc52) );
+	background:-moz-linear-gradient( center top, #b8e356 5%, #a5cc52 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'#b8e356\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\', endColorstr=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'#a5cc52\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\');
+	background-color:#b8e356;
+	-webkit-border-top-left-radius:0px;
+	-moz-border-radius-topleft:0px;
+	border-top-left-radius:0px;
+	-webkit-border-top-right-radius:0px;
+	-moz-border-radius-topright:0px;
+	border-top-right-radius:0px;
+	-webkit-border-bottom-right-radius:0px;
+	-moz-border-radius-bottomright:0px;
+	border-bottom-right-radius:0px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+	text-indent:0;
+	border:1px solid #83c41a;
+	display:inline-block;
+	color:#ffffff;
+        padding: 0px 10px;
+	font-family:Arial;
+	font-size:21px;
+	font-weight:bold;
+	font-style:normal;
+	height:49px;
+	line-height:49px;
+	width:168px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #86ae47;
+}</style>
+			<!--/ Facebook Thumb Fixer Open Graph /-->
+			<meta property="og:type" content="article" />
+			<meta property="og:url" content="https://blog.udemy.com/java-interview-questions/" />
+			<meta property="og:title" content="Java Interview Questions: How to crack the TOP 15 questions" />
+			<meta property="og:description" content="" />
+			<meta property="og:site_name" content="Udemy Blog" />
+			<meta property="og:image" content="https://blog.udemy.com/wp-content/uploads/2013/06/photodune-4652712-occupation-s.jpg" />
+
+			<meta itemscope itemtype="article" />
+			<meta itemprop="description" content="" />
+			<meta itemprop="image" content="https://blog.udemy.com/wp-content/uploads/2013/06/photodune-4652712-occupation-s.jpg" />
+			
+<link rel="Shortcut Icon" href="https://blog.udemy.com/wp-content/themes/epik/images/favicon.ico" type="image/x-icon" />
+<link rel="pingback" href="https://blog.udemy.com/xmlrpc.php" />
+<!-- Start BounceX tag. Deploy at the beginning of document head. -->
+
+        <script>
+        (function(d) {
+            var e = d.createElement('script');
+            e.src = d.location.protocol + '//bounceexchange.com/tag/858/i.js';
+            e.async = true;
+            d.getElementsByTagName("head")[0].appendChild(e);
+        }(document));
+        </script>
+
+<!-- End BounceX Tag-->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12366301-1']);
+  _gaq.push(['_trackPageview']);
+   setTimeout("_gaq.push(['_trackEvent', '15_seconds', 'read'])",15000);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', "1457291081167286"]);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(["track", "PixelInitialized", {}]);
+</script>
+<noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=1457291081167286&amp;ev=NoScript" /></noscript>
+
+
+<!-- Start getting pixels. -->
+<!-- Yahoo Code for your Conversion Page -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var yahoo_conversion_id = 1000204606;
+var yahoo_conversion_label = "OkJyCL6_hlsQv_mGzQM";
+var yahoo_conversion_value = 500;
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://s.yimg.jp/images/listing/tool/cv/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="https://b91.yahoo.co.jp/pagead/conversion/1000204606/?value=500&amp;label=OkJyCL6_hlsQv_mGzQM&amp;guid=ON&amp;script=0&amp;disvt=true"/>
+</div>
+</noscript>
+
+<script type="text/javascript" language="javascript">
+  /* <![CDATA[ */
+  var yahoo_ydn_conv_io = "RdbzFngOLDVJ43MekUGf";
+  var yahoo_ydn_conv_label = "R1D5UMOKNEM25SOEZ6G235913";
+  var yahoo_ydn_conv_transaction_id = "";
+  var yahoo_ydn_conv_amount = "500";
+  /* ]]> */
+</script>
+<script type="text/javascript" language="javascript" charset="UTF-8" src="//b90.yahoo.co.jp/conv.js"></script>
+
+<!-- Google Code for Conversion Page -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 966888136;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "SgynCKCv_VoQyJWGzQM";
+var google_remarketing_only = false;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/966888136/?label=SgynCKCv_VoQyJWGzQM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-- Google Code for Conversion Page -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 951369813;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "kUq1CNrK-1oQ1YDTxQM";
+var google_remarketing_only = false;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/951369813/?label=kUq1CNrK-1oQ1YDTxQM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-- Facebook Conversion Code for Thank you page -->
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', '6034528106080', {'value':'0.00','currency':'JPY'}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6034528106080&amp;cd[value]=0.00&amp;cd[currency]=JPY&amp;noscript=1" /></noscript><!-- All in one Favicon 4.3 --><link rel="shortcut icon" href="https://blog.udemy.com/wp-content/uploads/2014/05/favicon1.png" />
+<link rel="icon" href="https://blog.udemy.com/wp-content/uploads/2014/05/favicon.png" type="image/png"/>
+<!-- Google Analytics Tracking by Google Analyticator 6.4.9: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'enabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+  
+	_gaq.push(['_setAccount', 'UA-12366301-2']);
+    _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<style id="custom-css-css">@import "https://fonts.googleapis.com/css?family=Lora:400,700,400italic";[src*="https://www.googleadservices.com"]{display:none}</style>
+</head>
+<body class="single single-post postid-7601 single-format-standard custom-header content-sidebar for-students technology-for-students"><div id="wrap"><div id="head-wrap"><div id="header"><div class="wrap">
+    <div class="fxac">
+        <div id="header-menu" class="fx">
+            <div class="btn-group cats-dropdown">
+                <div data-toggle="dropdown" class="dropdown-toggle cats-toggle fxac">
+                    <a href="#" class="white-link sb mt0">
+                        <i class="fa fa-bars"></i>
+                        Course Categories
+                    </a>
+                </div>
+                <div class="dropdown-menu">
+                    <div class="fxw">
+                        <div class="menu-bottom-container"><ul id="menu-bottom" class="list-unstyled"><li id="menu-item-100046" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100046"><a href="https://www.udemy.com/teach?tc=blog.discover.teach" itemprop="url"><span>Create a Course</span></a></li>
+<li id="menu-item-100048" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100048"><a href="https://www.udemy.com/organizations/?ref=dropdown" itemprop="url"><span>Corporate Learning</span></a></li>
+<li id="menu-item-100050" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100050"><a href="https://www.udemy.com/mobile/?tc=blog.discover.mobile" itemprop="url"><span>Mobile</span></a></li>
+</ul></div>                        <div class="menu-second-container"><ul id="menu-second" class="list-unstyled"><li id="menu-item-100024" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100024"><a href="https://www.udemy.com/courses/Lifestyle?tc=blog.discover.lifestyle" itemprop="url"><span><i class="fa fa-smile-o"></i>  Lifestyle</span></a></li>
+<li id="menu-item-100028" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100028"><a href="https://www.udemy.com/courses/Teacher-Training?tc=blog.discover.education" itemprop="url"><span><i class="fa fa-magic"></i> Education</span></a></li>
+<li id="menu-item-100030" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100030"><a href="https://www.udemy.com/courses/Language?tc=blog.discover.languages" itemprop="url"><span><i class="fa fa-globe"></i> Languages</span></a></li>
+<li id="menu-item-100034" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100034"><a href="https://www.udemy.com/courses/Lifestyle&#038;tc=blog.discover.socialsciences" itemprop="url"><span><i class="fa fa-users"></i> Lifestyle</span></a></li>
+<li id="menu-item-143916" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-143916"><a href="https://www.udemy.com/courses/Health-and-Fitness?tc=blog.discover.healthandfitness&#038;utm_source=blog&#038;utm_medium=udemyads&#038;utm_content=post0&#038;utm_campaign=content-marketing-blog&#038;xref=blog" itemprop="url"><span><i class="fa fa-heart"></i> Health and Fitness</span></a></li>
+</ul></div>                        <div class="menu-third-container"><ul id="menu-third" class="list-unstyled"><li id="menu-item-100036" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100036"><a href="https://www.udemy.com/courses/Music?tc=blog.discover.music" itemprop="url"><span><i class="fa fa-music"></i> Music</span></a></li>
+<li id="menu-item-100040" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100040"><a href="https://www.udemy.com/courses/Sports?tc=blog.discover.sports" itemprop="url"><span><i class="fa fa-trophy"></i>  Sports</span></a></li>
+<li id="menu-item-100042" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100042"><a href="https://www.udemy.com/courses/Games?tc=blog.discover.games" itemprop="url"><span><i class="fa fa-gamepad"></i>  Games</span></a></li>
+<li id="menu-item-100044" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100044"><a href="https://www.udemy.com/courses/Marketing?tc=blog.discover.other" itemprop="url"><span><i class="fa fa-th-large"></i>  Marketing</span></a></li>
+</ul></div>                    </div>
+                    <div class="footer"><div class="menu-bottom-container"><ul id="menu-bottom-1" class="nav group"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100046"><a href="https://www.udemy.com/teach?tc=blog.discover.teach" itemprop="url"><span>Create a Course</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100048"><a href="https://www.udemy.com/organizations/?ref=dropdown" itemprop="url"><span>Corporate Learning</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100050"><a href="https://www.udemy.com/mobile/?tc=blog.discover.mobile" itemprop="url"><span>Mobile</span></a></li>
+</ul></div></div>
+                </div>
+            </div>
+        </div>
+
+        <div id="logo-area" >
+            <a id="logo" href="https://blog.udemy.com">
+                <img src="https://blog.udemy.com/wp-content/themes/epik/images/udemy_blog.svg" alt="Udemy Blog. Learn anything. Anywhere."/>
+            </a>
+
+        </div>
+
+        <div id="discoverLink" class="fx">
+            <div class="search-v4 fr">
+                <form id="searchbox" action="https://www.udemy.com/courses/search/">
+                    <input type="text" placeholder="Search for Courses" autocomplete="off" name="q" class="search-input quick-search" value="">
+                    <input type="hidden" name="utm_source" value="blog"/>
+                    <input type="hidden" name="utm_medium" value="udemyads"/>
+                    <input type="hidden" name="utm_content" value="post0"/>
+                    <input type="hidden" name="utm_campaign" value="content-marketing-blog"/>
+                    <input type="hidden" name="xref" value="blog"/>
+                    <input type="hidden" name="tc" value="blog.search"/>
+                    <button type="submit" class="icon-search search-btn"><i class="fa fa-search"></i></button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div></div></div><div id="inner"><div class="wrap"><div id="content-sidebar-wrap"><div id="content" class="hfeed"><div class="post-7601 post type-post status-publish format-standard has-post-thumbnail hentry category-for-students category-technology-for-students entry"><h1 class="entry-title">Java Interview Questions: How to crack the TOP 15 questions</h1> 
+<div class="post-info"><span class="date published time" title="2015-10-03T15:06:58+00:00">October 3, 2015</span>  by <span class="author vcard"><span class="fn"><a href="https://blog.udemy.com/author/kasiamikoluk/" rel="author">Kasia Mikoluk</a></span></span>  </div><div class="entry-content"><a id="dd_start"></a><p><a href="https://www.udemy.com/java-programming-for-beginners/?tc=blog.javainterviewquestions&amp;couponCode=half-off-for-blog"><img class="alignright size-medium wp-image-7604" src="https://blog.udemy.com/wp-content/uploads/2013/06/photodune-4652712-occupation-s-300x201.jpg" alt="interview" width="300" height="201" srcset="https://blog.udemy.com/wp-content/uploads/2013/06/photodune-4652712-occupation-s-300x201.jpg 300w, https://blog.udemy.com/wp-content/uploads/2013/06/photodune-4652712-occupation-s-620x415.jpg 620w, https://blog.udemy.com/wp-content/uploads/2013/06/photodune-4652712-occupation-s.jpg 946w" sizes="(max-width: 300px) 100vw, 300px" /></a><em>Updated on February 27, 2014</em></p>
+<p>“What is the difference between Throw and Throws in Java Exception Handling?”</p>
+<p>You stare at the person asking you that question and think, I should know this! But at that moment, you can’t quite remember, and then kick yourself mentally for not preparing for your interview.</p>
+<p>Good thing that’s just a fake scenario and you’re definitely going to be able to answer that question and more when the time comes!<span id="more-7601"></span></p>
+<p>The typical company hiring a Java programmer is looking for someone who can program well beyond the level taught in an introductory Java class. Interviewers ask questions that aren’t necessarily stumpers, but are meant to elicit a candidate’s deeper knowledge of the subject matter. While we would suggest you to <a href="https://www.udemy.com/learn-to-program-with-java">learn Java thoroughly</a> before facing an interview, this article will give you a special sneak peek into the <b>Top 15 Java Interview Questions</b> that one might confront during a job interview.</p>
+<p>Let’s start off with the easier questions and head out to the slightly tougher ones.</p>
+<p><b>1. What is JVM? Why is Java called the ‘Platform Independent Programming Language’?</b></p>
+<p><a href="https://blog.udemy.com/wp-content/uploads/2013/08/htmlprojects.jpg"><img class="alignright size-medium wp-image-16288" src="https://blog.udemy.com/wp-content/uploads/2013/08/htmlprojects-300x200.jpg" alt="htmlprojects" width="300" height="200" srcset="https://blog.udemy.com/wp-content/uploads/2013/08/htmlprojects-300x200.jpg 300w, https://blog.udemy.com/wp-content/uploads/2013/08/htmlprojects.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>JVM, or the Java Virtual Machine, is an interpreter which accepts ‘Bytecode’ and executes it.</p>
+<p>Java has been termed as a ‘Platform Independent Language’ as it primarily works on the notion of ‘compile once, run everywhere’. Here’s a sequential step establishing the Platform independence feature in Java:</p>
+<ul>
+<li>The Java Compiler outputs Non-Executable Codes called ‘Bytecode’.</li>
+<li>Bytecode is a highly optimized set of computer instruction which could be executed by the Java Virtual Machine (JVM).</li>
+<li>The translation into Bytecode makes a program easier to be executed across a wide range of platforms, since all we need is a JVM designed for that particular platform.</li>
+<li>JVMs for various platforms might vary in configuration, those they would all understand the same set of Bytecode, thereby making the Java Program ‘Platform Independent’.</li>
+</ul>
+<p><b>2. What is the Difference between JDK and JRE?</b></p>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="638">When asked typical <a href="https://www.udemy.com/java-programming-for-beginners/?tc=blog.javainterviewquestions&amp;couponCode=half-off-for-blog"><b>Java Interview Questions</b></a> most startup Java developers get confused with JDK and JRE. And eventually, they settle for ‘anything would do man, as long as my program runs!!’ Not quite right if you aspire to make a living and career out of Programming.</td>
+</tr>
+</tbody>
+</table>
+<p>The &#8220;JDK&#8221; is the Java Development Kit. I.e., the JDK is bundle of software that you can use to develop Java based software.</p>
+<p>The &#8220;JRE&#8221; is the Java Runtime Environment. I.e., the JRE is an implementation of the Java Virtual Machine which actually executes Java programs.</p>
+<p>Typically, each JDK contains one (or more) JRE&#8217;s along with the various development tools like the Java source compilers, bundling and deployment tools, debuggers, development libraries, etc.</p>
+<p><b>3. What does the ‘static’ keyword mean? </b></p>
+<p>We are sure you must be well-acquainted with the <a href="https://www.udemy.com/java-fundamentals-i-and-ii/?tc=blog.javainterviewquestions&amp;couponCode=half-off-for-blog">Java Basics</a>. Now that we are settled with the initial concepts, let’s look into the Language specific offerings.</p>
+<p>Static variable is associated with a class and not objects of that class. For example:</p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="638">
+<pre>public class ExplainStatic {
+      public static String name = "Look I am a static variable";
+}</pre>
+</td>
+</tr>
+</tbody>
+</table>
+<p>We have another class where-in we intend to access this static variable just defined.</p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="638">
+<pre>public class Application {
+        public static void main(String[] args) {
+            System.out.println(ExplainStatic.name)
+        }
+}</pre>
+</td>
+</tr>
+</tbody>
+</table>
+<p>We don’t create object of the class ExplainStatic to access the static variable. We directly use the class name itself: ExplainStatic.name</p>
+<p><b>4. What are the Data Types supported by Java? What is Autoboxing and Unboxing?</b></p>
+<p>This is one of the most common and fundamental Java interview questions<b>.</b> This is something you should have right at your finger-tips when asked. The eight Primitive Data types supported by Java are:</p>
+<ul>
+<li><b>Byte : </b>8-bit signed two&#8217;s complement integer. It has a minimum value of -128 and a maximum value of 127 (inclusive)</li>
+<li><b>Short : </b>16-bit signed two&#8217;s complement integer. It has a minimum value of -32,768 and a maximum value of 32,767 (inclusive).</li>
+<li><b>Int : </b>32-bit signed two&#8217;s complement integer. It has a minimum value of -2,147,483,648 and a maximum value of 2,147,483,647 (inclusive)</li>
+<li><b>Long : </b>64-bit signed two&#8217;s complement integer. It has a minimum value of -9,223,372,036,854,775,808 and a maximum value of 9,223,372,036,854,775,807 (inclusive)</li>
+<li><b>Float</b></li>
+<li><b>Double</b></li>
+</ul>
+<p><b>Autoboxing</b>: The Java compiler brings about an automatic transformation of primitive type (int, float, double etc.) into their object equivalents or wrapper type (Integer, Float, Double,etc) for the ease of compilation.</p>
+<p><b>Unboxing</b>: The automatic transformation of wrapper types into their primitive equivalent is known as Unboxing.</p>
+<p><b>5. What is the difference between STRINGBUFFER and STRING?</b></p>
+<p><b>String object is immutable.</b> i.e , the value stored in the String object cannot be changed. Consider the following code snippet:</p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="638">
+<pre>String myString = “Hello”;
+myString = myString + ” Guest”;</pre>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span style="line-height: 1.5em">When you print the contents of myString the output will be “Hello Guest”. Although we made use of the same object (myString), internally a new object was created in the process. That’s a performance issue.</span></p>
+<p><b>StringBuffer/StringBuilder objects are mutable: </b>StringBuffer/StringBuilder objects are mutable; we can make changes to the value stored in the object. What this effectively means is that string operations such as <i>append</i> would be more efficient if performed using StringBuffer/StringBuilder objects than String objects.</p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="638">
+<pre>String str = “Be Happy With Your Salary.''
+str += “Because Increments are a myth";
+StringBuffer strbuf = new StringBuffer();
+strbuf.append(str);
+System.out.println(strbuf);</pre>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The Output of the code snippet would be: <b>Be Happy With Your Salary. Because Increments are a myth.</b></p>
+<p><b>6. What is Function Over-Riding and Over-Loading in Java?</b></p>
+<p>This is a very important concept in <a href="https://www.udemy.com/object-oriented-programming-design-hitesh-choudhary/?tc=blog.javainterviewquestions">OOP (Object Oriented Programming)</a> and is a must-know for every Java Programmer.</p>
+<p><b>Over-Riding:</b> An override is a type of function which occurs in a class which inherits from another class. An override function &#8220;replaces&#8221; a function inherited from the base class, but does so in such a way that it is called even when an instance of its class is pretending to be a different type through polymorphism. That probably was a little over the top. The code snippet below should explain things better.</p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="638">
+<pre>public class Car {
+public static void main (String [] args) {
+Car a = new Car();
+Car b = new Ferrari(); //Car ref, but a Ferrari object
+a.start(); // Runs the Car version of start()
+b.start(); // Runs the Ferrari version of start()
+}
+}
+class Car {
+public void start() {
+System.out.println("This is a Generic start to any Car");
+}
+}
+class Ferrari extends Car {
+public void start() {
+System.out.println("Lets start the Ferrari and go out for a cool Party.");
+}
+}</pre>
+</td>
+</tr>
+</tbody>
+</table>
+<p><b style="line-height: 1.5em">Over-Loading: </b><span style="line-height: 1.5em">Overloading is the action of defining multiple methods with the same name, but with different parameters. It is unrelated to either overriding or polymorphism. Functions in Java could be overloaded by two mechanisms ideally:</span></p>
+<ul>
+<li>Varying the number of arguments.</li>
+<li>Varying the Data Type.</li>
+</ul>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="638">
+<pre>class CalculateArea{
+      void Area(int length){System.out.println(length*2);}
+      void Area(int length , int width){System.out.println(length*width);}
+
+      public static void main(String args[]){
+      CalculateArea obj=new CalculateArea();
+      obj.Area(10);   // Area of a Square
+      obj.Area(20,20);  // Area of a Rectangle
+
+      }
+}</pre>
+</td>
+</tr>
+</tbody>
+</table>
+<p><b style="line-height: 1.5em">7. What is Constructors, Constructor Overloading in Java and Copy-Constructor?</b></p>
+<p>Constructors form the basics of OOPs, for starters.</p>
+<p><b>Constructor: </b>The sole purpose of having Constructors is to create an instance of a class. They are invoked while creating an object of a class. Here are a few salient features of Java Constructors:</p>
+<ul>
+<li>Constructors can be public, private, or protected.</li>
+<li>If a constructor with arguments has been defined in a class, you can no longer use a default no-argument constructor &#8211; you have to write one.</li>
+<li>They are called only once when the class is being instantiated.</li>
+<li>They must have the same name as the class itself.</li>
+<li>They do not return a value and you do not have to specify the keyword void.</li>
+<li>If you do not create a constructor for the class, Java helps you by using a so called default no-argument constructor.</li>
+</ul>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="638">
+<pre>public class Boss{
+     String name; 
+
+     Boss(String input) { //This is the constructor
+        name = "Our Boss is also known as : " + input;
+    }
+
+public static void main(String args[]) {
+     Boss p1 = new Boss("Super-Man");
+    }
+}</pre>
+</td>
+</tr>
+</tbody>
+</table>
+<p><b style="line-height: 1.5em">Constructor overloading: </b><span style="line-height: 1.5em">passing different number and type of variables as arguments all of which are private variables of the class. Example snippet could be as follows:</span></p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="638">
+<pre>public class Boss{
+   String name; 
+   Boss(String input) { //This is the constructor
+        name = "Our Boss is also known as : " + input;
+   }
+   Boss() {
+        name = "Our Boss is a nice man. We don’t call him names.”;
+   }
+public static void main(String args[]) {
+      Boss p1 = new Boss("Super-Man");
+      Boss p2 = new Boss();
+   }
+}</pre>
+</td>
+</tr>
+</tbody>
+</table>
+<p><b>Copy Constructor: </b>A copy constructor is a type of constructor which constructs the object of the class from another object of the same class. The copy constructor accepts a reference to its own class as a parameter.</p>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="638"><b>Note: Java Doesn’t support Copy Constructor. Nevertheless folks from </b><a href="https://www.udemy.com/c-2008-fundamentals/?tc=blog.javainterviewquestions&amp;couponCode=half-off-for-blog"><b>C/C++ background</b></a><b> often get confused when asked about Java Copy Constructors.</b></td>
+</tr>
+</tbody>
+</table>
+<p><b> </b><b>8. What is Java Exception Handling? What is the difference between Errors, Unchecked Exception and Checked Exception?</b></p>
+<p>Anything that’s not Normal is an exception. Exceptions are the customary way in Java to indicate to a calling method that an abnormal condition has occurred.</p>
+<p><span style="line-height: 1.5em">In Java, exceptions are objects. When you throw an exception, you throw an object. You can&#8217;t throw just any object as an exception, however &#8212; only those objects whose classes descend from Throwable. Throwable serves as the base class for an entire family of classes, declared in java.lang, that your program can instantiate and throw. Here’s a hierarchical Exception class structure:</span></p>
+<p><a href="https://blog.udemy.com/wp-content/uploads/2013/06/java-8.png"><img class="aligncenter size-full wp-image-43440" src="https://blog.udemy.com/wp-content/uploads/2013/06/java-8.png" alt="java 8" width="379" height="274" /></a></p>
+<ul>
+<li>An <b>Unchecked Exception</b> inherits from RuntimeException (which extends from Exception). The JVM treats RuntimeException differently as there is no requirement for the application-code to deal with them explicitly.</li>
+<li>A <b>Checked Exception</b> inherits from the Exception-class. The client code has to handle the checked exceptions either in a try-catch clause or has to be thrown for the Super class to catch the same. A Checked Exception thrown by a lower class (sub-class) enforces a contract on the invoking class (super-class) to catch or throw it.</li>
+<li><b>Errors (members of the Error family)</b> are usually thrown for more serious problems, such as OutOfMemoryError (OOM), that may not be so easy to handle. <b></b></li>
+</ul>
+<p><b> </b>Exception handling needs special attention while designing large applications. So we would suggest you to spend some time <a href="https://www.udemy.com/learn-java-from-scratch/?tc=blog.javainterviewquestions&amp;couponCode=half-off-for-blog">brushing up your Java skills</a>.</p>
+<p><b>9. What is the difference between Throw and Throws in Java Exception Handling (remember this queston?)</b></p>
+<p><b>Throws: </b>A throws clause lists the types of exceptions that a method might throw, thereby warning the invoking method – ‘Dude. You need to handle this list of exceptions I might throw.’ Except those of type Error or RuntimeException, all other Exceptions or any of their subclasses, must be declared in the throws clause, if the method in question doesn’t implement a try…catch block. It is therefore the onus of the next-on-top method to take care of the mess.</p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="638">
+<pre>public void myMethod() throws PRException
+{..} 
+This means the super function calling the function should be equipped to handle this exception.
+public void Callee()
+{
+try{
+   myMethod();
+}catch(PRException ex)
+{
+...handle Exception....
+}
+}</pre>
+</td>
+</tr>
+</tbody>
+</table>
+<p><b>Using the Throw:</b> If the user wants to throw an explicit Exception, often customized, we use the Throw. The Throw clause can be used in any part of code where you feel a specific exception needs to be thrown to the calling method.</p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="638">
+<pre>try{
+if(age&gt;100){throw new AgeBarException(); //Customized ExceptioN
+}else{
+....}
+}
+}catch(AgeBarException ex){
+...handle Exception.....
+}</pre>
+</td>
+</tr>
+</tbody>
+</table>
+<p><b style="line-height: 1.5em">10. What is the Difference between byte stream and Character streams?</b></p>
+<p><span style="line-height: 1.5em">Every </span><a style="line-height: 1.5em" href="https://www.udemy.com/intermediate-advanced-java-programming/?tc=blog.javainterviewquestions">Java Programmer</a><span style="line-height: 1.5em"> deals with File Operations. To generate User reports, send attachments through mails and spill out data files from Java programs. And a sound knowledge on File Operation becomes even more important while dealing with Java questions.</span></p>
+<p><b>byte stream :</b> For reading and writing binary data, byte stream is incorporated. Programs use byte streams to perform byte input and output.</p>
+<ul>
+<li>Performing InputStream operations or OutputStream operations means generally having a loop that reads the input stream and writes the output stream one byte at a time.</li>
+<li>You can use buffered I/O streams for an overhead reduction (overhead generated by each such request often triggers disk access, network activity, or some other operation that is relatively expensive).</li>
+</ul>
+<p><b>Character streams: </b>Character streams work with the characters rather than the byte. In Java, characters are stored by following the Unicode (allows a unique number for every character) conventions. In such kind of storage, characters become the platform independent, program independent, language independent.</p>
+<p><b>11. What are FileInputStream and FileOutputStream ? Explain with an example to read and write into files.</b></p>
+<p><b><a href="https://blog.udemy.com/wp-content/uploads/2014/01/shutterstock_128187719.jpg"><img class="alignright  wp-image-28470" src="https://blog.udemy.com/wp-content/uploads/2014/01/shutterstock_128187719-300x252.jpg" alt="mysql vs mysqli" width="270" height="227" srcset="https://blog.udemy.com/wp-content/uploads/2014/01/shutterstock_128187719-300x252.jpg 300w, https://blog.udemy.com/wp-content/uploads/2014/01/shutterstock_128187719-620x522.jpg 620w, https://blog.udemy.com/wp-content/uploads/2014/01/shutterstock_128187719.jpg 1000w" sizes="(max-width: 270px) 100vw, 270px" /></a>FileInputStream : </b>It contains the input byte from a file and implements an input stream.</p>
+<p><b>FileOutputStream :</b> It uses for writing data to a file and also implements an output stream.</p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="638">
+<pre>public class FileHandling {
+public static void main(String [ ] args) throws IOException
+{
+FileInputStream inputStream = new FileInputStream ("Input.txt") ;
+FileOutputStream outputStream = new FileOutputStream("Output.txt",true) ;
+
+byte[] buffer = new byte[1024];
+//For larger files we specify a buffer size which defines the chunks size for data
+int bytesRead;
+while ((bytesRead = inputStream.read(buffer)) != -1)
+        outputStream.write(buffer, 0, bytesRead);
+inputStream.close() ;
+outputStream.close() ;
+}
+}</pre>
+</td>
+</tr>
+</tbody>
+</table>
+<p><b style="line-height: 1.5em">12. What are FileReader and FileWriter ? Explain with an example to read and write into files.</b></p>
+<p><b>FileReader :</b> The FileReader class makes it possible to read the contents of a file as a stream of characters. It works much like the FileInputStream, except the FileInputStream reads bytes, whereas the FileReader reads characters. The FileReader is intended to read text, in other words. One character may correspond to one or more bytes depending on the character encoding scheme.The FileReader object also lets web applications asynchronously read the contents of files (or raw data buffers) stored on the user&#8217;s computer, using File or Blob objects to specify the file or data to read.</p>
+<p><span style="line-height: 1.5em"><a href="https://blog.udemy.com/wp-content/uploads/2014/02/shutterstock_126226676.jpg"><img class="alignright size-medium wp-image-33940" src="https://blog.udemy.com/wp-content/uploads/2014/02/shutterstock_126226676-300x221.jpg" alt="how to write better" width="300" height="221" srcset="https://blog.udemy.com/wp-content/uploads/2014/02/shutterstock_126226676-300x221.jpg 300w, https://blog.udemy.com/wp-content/uploads/2014/02/shutterstock_126226676-620x457.jpg 620w, https://blog.udemy.com/wp-content/uploads/2014/02/shutterstock_126226676.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></a></span><b>FileWriter : </b>This class is used to write to character files. Creation of a FileWriter is not dependent on the file already existing. FileWriter will create the file before opening it for output when you create the object. Its write() methods allow you to write character(s) or Strings to a file. FileWriters are usually wrapped by higher-level Writer objects such as BufferedWriters or PrintWriters, which provide better performance and higher-level, more flexible methods to write data.</p>
+<p>Usage of FileWriter can be explained as follows :</p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="638">
+<pre>File file = new File("fileWrite2.txt");
+FileWriter fw = new FileWriter(file);
+for(int i=0;i&lt;10;i++){
+fw.write("Soham is Just Awesome : "+i);
+fw.flush();
+}
+fw.close();</pre>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Usage of FileWriter and FileReader used in conjunction is as follows:</p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="638">
+<pre>int c;
+FileReader fread = new FileReader("xanadu.txt");
+FileWriter fwrite = new FileWriter("characteroutput.txt");
+while ((c = fread.read()) != -1)
+       fwrite.write(c);</pre>
+</td>
+</tr>
+</tbody>
+</table>
+<p><b>13. What is the difference between </b><b>ArrayList and LinkedList ?</b></p>
+<p>Please pay special attention as this is probably one of the most widely asked interview questions.</p>
+<p>We aren’t going to state the properties of each in this question. What we are looking for are the differences. The prime areas where the two stand apart are as follows :</p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="319"><b>Arraylist</b></td>
+<td valign="top" width="319"><b>Linklist</b></td>
+</tr>
+<tr>
+<td valign="top" width="319">Random access.<b></b></td>
+<td valign="top" width="319">Sequential access.The control traverses from the first node to reach the indexed node.<b></b></td>
+</tr>
+<tr>
+<td valign="top" width="319">Only objects can be added.<b></b></td>
+<td valign="top" width="319">The LinkedList is implemented using nodes linked to each other. Each node contains a previous node link, next node link, and value, which contains the actual data<b></b></td>
+</tr>
+</tbody>
+</table>
+<p><b>14. Explain the difference between ITERATOR AND ENUMERATION INTERFACE with example.</b></p>
+<ul>
+<li>Iterators allow the caller to remove elements from the underlying collection during the iteration with well-defined semantics.</li>
+<li>Iterator actually adds one method that Enumeration doesn&#8217;t have: remove ().</li>
+</ul>
+<p><a href="https://blog.udemy.com/wp-content/uploads/2013/06/14.png"><img class="aligncenter size-full wp-image-43422" src="https://blog.udemy.com/wp-content/uploads/2013/06/14.png" alt="14" width="522" height="313" /></a></p>
+<p>Whereas in case of Enumeration:</p>
+<p><a href="https://blog.udemy.com/wp-content/uploads/2013/06/14b1.png"><img class="aligncenter size-full wp-image-43436" src="https://blog.udemy.com/wp-content/uploads/2013/06/14b1.png" alt="14b" width="530" height="203" /></a></p>
+<p><b>15. What is the use of the ‘SimpleDateFormat’ and how can you use it to display the current system date in ‘yyyy/MM/DD HH:mm:ss’ format?</b></p>
+<p>SimpleDateFormat is one such concrete class which is widely used by Java developers for parsing and formatting of dates. This is also used to convert Dates to String and vice-versa.</p>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="638">Literally every Enterprise level Java Application invariably uses the SimpleDateFormat for handling user dates. We ofcourse aren’t expecting Java interviewees to be absolutely spectacular with the syntaxes. But a basic know-how of this class is mandatory.</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="638">
+<pre>public class CurrentSystemDate {
+public static void main(String[] args) {
+        SimpleDateFormat sysForm = new SimpleDateFormat("yyyy/MM/DD HH:mm:ss");
+        Date curdate= new Date();
+        System.out.println(sysForm.format(curdate));
+}
+}</pre>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The best way to brush up your Java knowledge is to <a href="https://www.udemy.com/programming-java/?tc=blog.javainterviewquestions&amp;couponCode=half-off-for-blog">open up an eclipse</a> and write loads of codes and sample programs. Get into the habit of remembering syntaxes and applying the best coding standards possible.</p>
+<p>And there’s your top 15! Best of luck on your interview.</p>
+<p><b>You might also like:</b></p>
+<p>1. <a href="https://www.udemy.com/advanced-java-programming/?tc=blog.javainterviewquestions&amp;couponCode=half-off-for-blog">Some Advanced Java Programming</a></p>
+<p>2. <a href="https://www.udemy.com/programming-java/?tc=blog.javainterviewquestions&amp;couponCode=half-off-for-blog">Java Programming using Eclipse</a></p>
+<p>3. <a href="https://www.udemy.com/javawebtut/?tc=blog.javainterviewquestions&amp;couponCode=half-off-for-blog">Servlets and JSPs: Creating Web Applications With Java</a></p>
+<p>4. <a href="https://www.udemy.com/java-essentials-for-android/?tc=blog.javainterviewquestions&amp;couponCode=half-off-for-blog">Java Essentials for Android</a></p>
+<a id="dd_end"></a><div class='dd_outer'><div class='dd_inner'><div id='dd_ajax_float'><div class='dd_button_v'><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://blog.udemy.com/java-interview-questions/" data-count="vertical" data-text="Java Interview Questions: How to crack the TOP 15 questions" data-via="" ></a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script></div><div style='clear:left'></div><div class='dd_button_v'><a href="http://bufferapp.com/add" class="buffer-add-button" data-count="vertical" data-text="Java Interview Questions: How to crack the TOP 15 questions" data-url="https://blog.udemy.com/java-interview-questions/" data-via=""></a><script type="text/javascript" src="https://static.bufferapp.com/js/button.js"></script></div><div style='clear:left'></div><div class='dd_button_v'><script src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="https://blog.udemy.com/java-interview-questions/" send="false" show_faces="false"  layout="box_count" width="50"  ></fb:like></div><div style='clear:left'></div><div class='dd_button_v'><script type='text/javascript' src='https://apis.google.com/js/plusone.js'></script><g:plusone size='tall' href='https://blog.udemy.com/java-interview-questions/'></g:plusone></div><div style='clear:left'></div></div></div></div><script type="text/javascript">var dd_offset_from_content = 43;var dd_top_offset_from_content = 0;var dd_override_start_anchor_id = "";var dd_override_top_offset = "";</script><script type="text/javascript" src="https://blog.udemy.com/wp-content/plugins/digg-digg//js/diggdigg-floating-bar.js?ver=5.3.6"></script></div><div class="post-meta"><span class="categories">Filed Under: <a href="https://blog.udemy.com/category/for-students/" rel="category tag">For Students</a>, <a href="https://blog.udemy.com/category/for-students/technology-for-students/" rel="category tag">Technology</a></span> </div></div></div><div id="sidebar" class="sidebar widget-area"><div id="text-11" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Top Udemy Courses:</h4>
+			<div class="textwidget"><div class="featured-posts">
+<ul class="wpp-list">
+<li><a href=https://www.udemy.com/topic/java>Top Java Courses</a></li>
+<li><a href=https://www.udemy.com/topic/python/>Top Python Courses</a></li>
+<li><a href=https://www.udemy.com/topic/excel/>Top Excel Courses</a></li>
+<li><a href=https://www.udemy.com/tutorials/learn-excel>Learn Excel With This GIF Tutorial</a></li>
+<li><a href=https://www.udemy.com/how-to-become-a-web-developer-from-scratch/?tc=blog.widget.webdev.p&couponCode=blog13><img width="15" border="0" src="https://blog.udemy.com/wp-content/uploads/2013/08/webdeveloper.png" alt="" class="wpp-thumbnail wpp_cached_thumb wpp_featured">Become a Web Developer from Scratch! (8100+ students)</a></li>
+<li><a href=https://www.udemy.com/excel-mastery-course-part-1-of-5-calculate/?tc=blog.widget.excel.p&couponCode=blog13><img width="15" border="0" src="https://blog.udemy.com/wp-content/uploads/2013/08/excelmastery.png" alt="" class="wpp-thumbnail wpp_cached_thumb wpp_featured">Excel Mastery Course (1010+ students)</a></li>
+<li><a href=https://www.udemy.com/advanced-excel/?tc=blog.widget.excel.p&couponCode=blog13><img width="15" border="0" src="https://blog.udemy.com/wp-content/uploads/2013/08/advancedexcel.png" alt="" class="wpp-thumbnail wpp_cached_thumb wpp_featured">Advanced Excel Training (42,660+ students)</a></li>
+<li><a href=https://www.udemy.com/coding-for-entrepreneurs/?tc=blog.widget.coding.p&couponCode=blog13><img width="15" border="0" src="https://blog.udemy.com/wp-content/uploads/2013/08/coding.png" alt="" class="wpp-thumbnail wpp_cached_thumb wpp_featured">Coding for Entrepreneurs (4810+ students)</a></li>
+<li><a href=https://www.udemy.com/ios-development-code-camp/?tc=blog.widget.ios.p&couponCode=blog13><img width="15" border="0" src="https://blog.udemy.com/wp-content/uploads/2013/08/iosdev.png" alt="" class="wpp-thumbnail wpp_cached_thumb wpp_featured">iOS Development Code Camp (1155+ students)</a></li>
+<li><a href=https://www.udemy.com/advanced-java-programming/?tc=blog.widget.java.p&couponCode=blog13><img width="15" border="0" src="https://blog.udemy.com/wp-content/uploads/2013/08/advancedjavaprogramming.png" alt="" class="wpp-thumbnail wpp_cached_thumb wpp_featured">Advanced Java Programming (735+ students)</a></li>
+</ul>
+</div>
+</div>
+		</div></div>
+<div id="text-12" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Popular Posts</h4>
+			<div class="textwidget"><ul class="wpp-list popular-posts">
+<li><a href="https://blog.udemy.com/how-to-build-an-iphone-app-from-scratch-for-non-technical-people/" title="How to Build an iPhone App from Scratch for Non-Technical People: Your quick and dirty guide" target="_self"><img src="https://blog.udemy.com/wp-content/uploads/2012/02/Build-iphone-app-15x15.jpg" title="How to Build an iPhone App from Scratch for Non-Technical People: Your quick and dirty guide" alt="How to Build an iPhone App from Scratch for Non-Technical People: Your quick and dirty guide" width="15" height="15" class="wpp-thumbnail wpp_cached_thumb wpp_featured" scale="0"></a><a href="https://blog.udemy.com/how-to-build-an-iphone-app-from-scratch-for-non-technical-people/" title="How to Build an iPhone App from Scratch for Non-Technical People: Your quick and dirty guide" class="wpp-post-title" target="_self">How to Build an iPhone App from Scratch for Non-Technical People: Your quick and dirty guide</a>  <span class="post-stats"></span> </li>
+<li><a href="https://blog.udemy.com/excel-formulas/" title="Excel Formulas: 10 Formulas That Helped Me Keep My Job" target="_self"><img src="https://blog.udemy.com/wp-content/plugins/wordpress-popular-posts/no_thumb.jpg" title="Excel Formulas: 10 Formulas That Helped Me Keep My Job" alt="Excel Formulas: 10 Formulas That Helped Me Keep My Job" width="15" height="15" class="wpp-thumbnail wpp_def_noPath wpp_featured" scale="0"></a><a href="https://blog.udemy.com/excel-formulas/" title="Excel Formulas: 10 Formulas That Helped Me Keep My Job" class="wpp-post-title" target="_self">Excel Formulas: 10 Formulas That Helped Me Keep My Job</a>  <span class="post-stats"></span> </li>
+<li><a href="https://blog.udemy.com/modern-language-wars/" title="Code Wars: Ruby vs Python vs PHP [Infographic]" target="_self"><img src="https://blog.udemy.com/wp-content/uploads/2011/12/PROGRAMMING-LANGUAGE-3-e1326262537447-15x15.png" title="Code Wars: Ruby vs Python vs PHP [Infographic]" alt="Code Wars: Ruby vs Python vs PHP [Infographic]" width="15" height="15" class="wpp-thumbnail wpp_cached_thumb wpp_featured" scale="0"></a><a href="https://blog.udemy.com/modern-language-wars/" title="Code Wars: Ruby vs Python vs PHP [Infographic]" class="wpp-post-title" target="_self">Code Wars: Ruby vs Python vs PHP [Infographic]</a>  <span class="post-stats"></span> </li>
+<li><a href="https://blog.udemy.com/best-programming-language/" title="Top 10 Programming Languages to Learn in 2014" target="_self"><img src="https://blog.udemy.com/wp-content/uploads/2013/07/21-15x15.jpg" title="Top 10 Programming Languages to Learn in 2014" alt="Top 10 Programming Languages to Learn in 2014" width="15" height="15" class="wpp-thumbnail wpp_cached_thumb wpp_featured" scale="0"></a><a href="https://blog.udemy.com/best-programming-language/" title="Top 10 Programming Languages to Learn in 2014" class="wpp-post-title" target="_self">Top 10 Programming Languages to Learn in 2014</a>  <span class="post-stats"></span> </li>
+<li><a href="https://blog.udemy.com/how-to-add-ringtones-to-iphone/" title="How to Add Ringtones To Your iPhone (Updated for iOS 7)" target="_self"><img src="https://blog.udemy.com/wp-content/uploads/2013/10/howtoaddringtonestoiphone-15x15.jpg" title="How to Add Ringtones To Your iPhone (Updated for iOS 7)" alt="How to Add Ringtones To Your iPhone (Updated for iOS 7)" width="15" height="15" class="wpp-thumbnail wpp_cached_thumb wpp_featured" scale="0"></a><a href="https://blog.udemy.com/how-to-add-ringtones-to-iphone/" title="How to Add Ringtones To Your iPhone (Updated for iOS 7)" class="wpp-post-title" target="_self">How to Add Ringtones To Your iPhone (Updated for iOS 7)</a>  <span class="post-stats"></span> </li>
+<li><a href="https://blog.udemy.com/best-powerpoint-presentations/" title="8 Best PowerPoint Presentations: How To Create Engaging Presentations" target="_self"><img src="https://blog.udemy.com/wp-content/plugins/wordpress-popular-posts/no_thumb.jpg" title="8 Best PowerPoint Presentations: How To Create Engaging Presentations" alt="8 Best PowerPoint Presentations: How To Create Engaging Presentations" width="15" height="15" class="wpp-thumbnail wpp_def_noPath wpp_featured" scale="0"></a><a href="https://blog.udemy.com/best-powerpoint-presentations/" title="8 Best PowerPoint Presentations: How To Create Engaging Presentations" class="wpp-post-title" target="_self">8 Best PowerPoint Presentations: How To Create Engaging Presentations</a>  <span class="post-stats"></span> </li>
+<li><a href="https://blog.udemy.com/java-interview-questions/" title="Java Interview Questions: How to crack the TOP 15 questions" target="_self"><img src="https://blog.udemy.com/wp-content/uploads/2013/06/photodune-4652712-occupation-s-15x15.jpg" title="Java Interview Questions: How to crack the TOP 15 questions" alt="Java Interview Questions: How to crack the TOP 15 questions" width="15" height="15" class="wpp-thumbnail wpp_cached_thumb wpp_featured" scale="0"></a><a href="https://blog.udemy.com/java-interview-questions/" title="Java Interview Questions: How to crack the TOP 15 questions" class="wpp-post-title" target="_self">Java Interview Questions: How to crack the TOP 15 questions</a>  <span class="post-stats"></span> </li>
+<li><a href="https://blog.udemy.com/drupal-vs-joomla-vs-wordpress/" title="Drupal vs Joomla vs WordPress: CMS Showdown [infographic]" target="_self"><img src="https://blog.udemy.com/wp-content/uploads/2013/07/CMSShowdown_final2-15x15.jpg" title="Drupal vs Joomla vs WordPress: CMS Showdown [infographic]" alt="Drupal vs Joomla vs WordPress: CMS Showdown [infographic]" width="15" height="15" class="wpp-thumbnail wpp_cached_thumb wpp_featured" scale="0"></a><a href="https://blog.udemy.com/drupal-vs-joomla-vs-wordpress/" title="Drupal vs Joomla vs WordPress: CMS Showdown [infographic]" class="wpp-post-title" target="_self">Drupal vs Joomla vs WordPress: CMS Showdown [infographic]</a>  <span class="post-stats"></span> </li>
+<li><a href="https://blog.udemy.com/making-an-app/" title="Making an App: 6 Things You Should Consider Before Getting Started" target="_self"><img src="https://blog.udemy.com/wp-content/uploads/2013/03/bigstock-Icons-in-a-tablet-Vector-33670934-15x15.jpg" title="Making an App: 6 Things You Should Consider Before Getting Started" alt="Making an App: 6 Things You Should Consider Before Getting Started" width="15" height="15" class="wpp-thumbnail wpp_cached_thumb wpp_featured" scale="0"></a><a href="https://blog.udemy.com/making-an-app/" title="Making an App: 6 Things You Should Consider Before Getting Started" class="wpp-post-title" target="_self">Making an App: 6 Things You Should Consider Before Getting Started</a>  <span class="post-stats"></span> </li>
+<li><a href="https://blog.udemy.com/10-formulas-de-excel/" title="10 Fórmulas de Excel para ser Más Productivo" target="_self"><img src="https://blog.udemy.com/wp-content/uploads/2013/10/advancedexceltutorial-15x15.jpg" title="10 Fórmulas de Excel para ser Más Productivo" alt="10 Fórmulas de Excel para ser Más Productivo" width="15" height="15" class="wpp-thumbnail wpp_cached_thumb wpp_featured" scale="0"></a><a href="https://blog.udemy.com/10-formulas-de-excel/" title="10 Fórmulas de Excel para ser Más Productivo" class="wpp-post-title" target="_self">10 Fórmulas de Excel para ser Más Productivo</a>  <span class="post-stats"></span> </li>
+
+</ul></div>
+		</div></div>
+</div></div></div></div><div id="footer" class="footer"><div class="wrap"><div class="gototop"><p><a href="#wrap" rel="nofollow">Return to top of page</a></p></div><div class="creds"><p>Copyright &#x000A9;&nbsp;2016 &middot; <a href="https://www.udemy.com">Udemy, Inc.</a> &middot; Built on the <a href="http://www.studiopress.com/themes/genesis" title="Genesis Framework">Genesis Framework</a></p></div></div></div></div><script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName('script')[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0020/4338.js";
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+	<div style="display:none">
+	</div>
+<script type="text/javascript">
+adroll_adv_id = "554CPNW4XBAX5EYKBL4HVU";
+adroll_pix_id = "OKLCQMMNANCRNGGEOKKR5M";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+<!-- Qualaroo for udemy.com -->
+<!-- Paste this code right after the <body> tag on every page of your site. -->
+<script type="text/javascript">
+  var _kiq = _kiq || [];
+  (function(){
+    setTimeout(function(){
+    var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript';
+    s.async = true; s.src = '//s3.amazonaws.com/ki.js/34436/6GL.js'; f.parentNode.insertBefore(s, f);
+    }, 1);
+  })();
+</script>
+<link rel='stylesheet' id='hljstheme-css'  href='https://blog.udemy.com/wp-content/plugins/wp-code-highlightjs/styles/default.css?ver=0.5.8' type='text/css' media='all' />
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201608'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2016Febaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://blog.udemy.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.4.2'></script>
+<script type='text/javascript' src='https://blog.udemy.com/wp-includes/js/wp-embed.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='https://blog.udemy.com/wp-content/plugins/wp-code-highlightjs/highlight.common.pack.js?ver=0.5.8'></script>
+    <style>pre.hljs {padding: 5px;}
+pre.hljs code {}</style>
+    <script type="text/javascript">
+    (function($, window) {
+        var init_fn_flag = false;
+        var init_fn = (function() {
+            if (init_fn_flag)
+                return;
+
+            init_fn_flag = true;
+
+             hljs.configure({"tabReplace":"    "});
+            $('pre code').each(function(i, block) {
+                hljs.highlightBlock(block);
+            });
+           
+        });
+
+        $(document).ready(init_fn);
+        $(window).on("load", init_fn);
+    })(jQuery, window);
+    </script>
+<script type='text/javascript' src='https://stats.wp.com/e-201608.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.9.0',blog:'68266232',post:'7601',tz:'-8',srv:'blog.udemy.com'} ]);
+	_stq.push([ 'clickTrackerInit', '68266232', '7601' ]);
+</script>
+<script src="https://blog.udemy.com/wp-content/themes/epik/js/uri.js"></script>
+<script>
+
+    jQuery(document).ready(function ($) {
+        {
+            $('body').click(function () {
+                $(".cats-dropdown").removeClass('open');
+                $(".dropdown-menu").hide();
+            });
+
+            $('[data-toggle="dropdown"]').toggle(
+                function () {
+                    $(this).parent().addClass('open');
+                },
+                function () {
+                    $(this).parent().removeClass('open');
+                }
+            );
+            $('a').filter('[href^="http://www.udemy.com/"],[href^="https://www.udemy.com/"]').not('[href^="https://blog.udemy.com/"]').each(function () {
+                var h = this.href;
+                var p = $(this).closest(".post");
+                if (p.length) {
+                    if (matches = p.attr("class").match(/post-([0-9]+)/)) {
+                        var id = matches[1];
+                    }
+                } else {
+                    var id = 0;
+                }
+                var uri = new Uri(h)
+                    .addQueryParam('utm_source', 'blog')
+                    .addQueryParam('utm_medium', 'udemyads')
+                    .addQueryParam('utm_content', 'post' + id)
+                    .addQueryParam('utm_campaign', 'content-marketing-blog')
+                    .addQueryParam('xref', 'blog');
+
+                                if (uri.toString().indexOf('couponCode') < 0) {
+                        var uri = new Uri(uri.toString()).addQueryParam('couponCode', ' ');
+                                    }
+                                this.href = uri.toString();
+
+
+            });
+
+//            $(".menu-courses-container a").each(function(){
+//                $(this).attr("href",function(){
+//                    return this.href+"&tc=blog.discover";
+//                })
+//            })
+
+        }
+
+//        $("#discount-popup").fancybox({
+//            wrapCSS : 'discount-popup'
+//        });
+//        $(".fancybox").fancybox();
+
+
+    });
+</script>
+
+
+
+    <a href="#discount-popup" class="fancybox discount-popup-link" style="display: none;">discount</a>
+
+    <div id="discount-popup" style="display: none;">
+        <div class="fxac justify-content-center h100p color-white tac">
+            <div>
+                <div class="fs21">Special Offer for Blog Readers!</div>
+                <div class="anton ttu big-get-text">get 50% Off</div>
+                <div class="fs21">Any* Course for a Limited Time</div>
+                <div>
+                    <a href="https://www.udemy.com/courses/?pmtag=blog&utm_source=blog&utm_medium=udemyads&utm_content=hellobar&utm_campaign=content-marketing-blog&source=blogpop" class="gray-btn">Find
+                        a Course Now</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <script>
+        (function ($) {
+            $(document).ready(function () {
+                // $(".discount-popup-link").fancybox({
+                //     wrapCSS: 'discount-popup-wrapper'
+                // });
+                // setTimeout(function () {
+                //     $('.discount-popup-link').trigger('click');
+                // }, 15000);
+            });
+        })(jQuery);
+    </script>
+
+</body>
+</html>
