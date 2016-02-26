@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<!-- saved from url=(0023)http://spring.io/guides -->
+<html data-filterable-list="" data-mobile-support="" data-search=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Guides</title>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1, minimum-scale=1, user-scalable=no" id="Viewport" name="viewport">
+<link rel="shortcut icon" type="image/x-icon" href="http://spring.io/img/favicon-ca31b78daf0dd9a106bbf3c6d87d4ec7.png">
+<link href="./Guides_files/css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="./Guides_files/main-734576f830dc3605e5316a094aa82a3c.css">
+<script type="text/javascript" async="" src="./Guides_files/munchkin.js"></script><script type="text/javascript" async="" src="./Guides_files/inpage_linkid.js" id="undefined"></script><script type="text/javascript" async="" src="./Guides_files/ga.js"></script><script>
+        var baseUrl = '/';
+  </script>
+<script async="" src="./Guides_files/curl-af0e5211f469b994b367d180c29b7ae3.js" data-curl-run=""></script>
+<meta content="7qGntFPD9lWAVCtUu5U77v4l68PsTHf6xpzgjQv2j2M" name="google-site-verification">
+<script>
+    //
+      var _gaq = _gaq || [];
+      var pluginUrl =
+       '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+      _gaq.push(
+        ['_require', 'inpage_linkid', pluginUrl],
+        ['_setAccount', 'UA-2728886-20'],
+        ['_trackPageview'],
+        ['b._require', 'inpage_linkid', pluginUrl],
+        ['b._setAccount', 'UA-2728886-19'],
+        ['b._trackPageview']
+      );
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+  </script>
+<link rel="stylesheet" type="text/css" href="./Guides_files/guide-19d30a94d0eee834441c22bd4a796a60.css">
+<meta content="Spring Guides" property="og:title">
+<meta property="og:image" content="/img/spring-by-pivotal-9066b55828deb3c10e27e609af322c40.png">
+<meta content="these guides are designed to get you productive as quickly as
+    possible and using the latest Spring project releases and techniques as recommended by the Spring team" property="og:description">
+ 
+<script type="text/javascript" charset="utf-8" async="" src="./Guides_files/run-fc2c41c02f80bb2f7a7ee9825f50a302.js"></script><script type="text/javascript" charset="utf-8" src="./Guides_files/jquery-migrate-1.2.1.js"></script><script type="text/javascript" charset="utf-8" src="./Guides_files/munchkin(1).js"></script></head>
+<body>
+<script type="text/javascript">
+    // Work around Google font rendering issues in webkit browsers on Windows 7
+    if (navigator.userAgent.indexOf("NT 6.1") != -1) {
+      document.body.style.WebkitTextStroke = "0.5px";
+    }
+  </script>
+<div class="viewport">
+<header class="navbar header--navbar desktop-only">
+<div class="navbar-inner">
+<div class="container-fluid">
+<div class="spring-logo--container">
+<a class="spring-logo" href="http://spring.io/"><span></span></a>
+</div>
+<ul class="nav pull-right">
+<li class="navbar-link">
+<a href="http://spring.io/docs">Docs</a>
+</li>
+<li class="navbar-link active">
+<a href="http://spring.io/guides">Guides</a>
+</li>
+<li class="navbar-link">
+<a href="http://spring.io/projects">Projects</a>
+</li>
+<li class="navbar-link">
+<a href="http://spring.io/blog">Blog</a>
+</li>
+<li class="navbar-link">
+<a href="http://spring.io/questions">Questions</a>
+</li>
+<li class="navbar-link nav-search">
+<i class="icon-search navbar-search--icon js-search-input-open"></i>
+<div class="search-input-close js-search-input-close">x</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="search-dropdown--container js-search-dropdown">
+<div class="container-fluid">
+<div class="search-form--container">
+<form action="http://spring.io/search" class="form-inline form-search" method="get">
+<input class="search-query search-form--form js-search-input" name="q" placeholder="Search for documentation, guides, and posts..." type="text" value="">
+<button class="search-form--submit" type="submit"><i class="icon-search"></i></button>
+</form>
+</div>
+</div>
+</div>
+</header>
+<div>
+<div class="mobile-navigation--wrapper mobile-only">
+<div class="navigation-drawer--container">
+<div class="mobile-search--container">
+<form action="http://spring.io/search" class="form-inline form-search" method="get">
+<button class="search-form--submit" type="submit"><i class="icon-search"></i></button>
+<input class="search-query search-form--form js-search-input" name="q" placeholder="Search..." type="text" value="">
+</form>
+</div>
+<div class="navigation-item-list">
+<div class="navbar-link">
+<a href="http://spring.io/">
+Home
+<i class="icon-chevron-right pull-right"></i>
+</a>
+</div>
+<div class="navbar-link active">
+<a href="http://spring.io/guides">
+Guides
+<i class="icon-chevron-right pull-right"></i>
+</a>
+</div>
+<div class="navbar-link">
+<a href="http://spring.io/projects">
+Projects
+<i class="icon-chevron-right pull-right"></i>
+</a>
+</div>
+<div class="navbar-link">
+<a href="http://spring.io/blog">
+Blog
+<i class="icon-chevron-right pull-right"></i>
+</a>
+</div>
+<div class="navbar-link">
+<a href="http://spring.io/questions">
+Questions
+<i class="icon-chevron-right pull-right"></i>
+</a>
+</div>
+</div>
+</div>
+<div class="mobile-nav">
+<div class="nav-icon js-open-nav-drawer">
+<i class="icon-reorder"></i>
+</div>
+<div class="header-center-icon">
+<a href="http://spring.io/">
+<div class="icon icon-spring-logo-mobile"></div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="header--container"></div>
+<div class="container-fluid"></div>
+<div></div>
+<div class="container-fluid">
+<main class="main-body--wrapper">
+<h1 class="index-page--title">Guides</h1>
+<p class="index-page--subtitle with-subtext">Whatever you're building, these guides are designed to get you productive as quickly as possible – using the latest Spring project releases and techniques as recommended by the <a href="http://spring.io/team">Spring team</a>.<br>
+<span class="subtext">
+Have a suggestion for a new guide? Let us know at <a href="https://twitter.com/intent/tweet?text=@springcentral&amp;related=springcentral&amp;hashtags=guides">@springcentral</a>.
+</span>
+</p>
+<a name="gs"></a>
+<div class="row-fluid content-container--wrapper guides-section--container">
+<div class="content-container--header">
+<input autofocus="" class="content-container--filter" id="doc_filter" onfocus="this.value=&#39;&#39;; this.style.color=&#39;#000&#39;; this.style.fontStyle=&#39;normal&#39;; this.onfocus=&#39;&#39;;" placeholder="Find a guide..." style="color: rgb(0, 0, 0); font-style: normal;" type="text" value="Find a guide...">
+</div>
+<section class="content-container--body">
+<div data-filterable-container="">
+<div class="content-section-title--container">
+<div class="pull-left icon icon-gs-guides"></div>
+<h3 class="content-section-title no-border no-margin">Getting Started Guides</h3>
+<p class="content-section-sub-title">Designed to be completed in 15-30 minutes, these guides provide quick, hands-on instructions for building the "Hello World" of any development task with Spring. In most cases, the only prerequisites are a JDK and a text editor.</p>
+</div>
+<div class="guide--container" data-filterable="Building a RESTful Web Service Learn how to create a RESTful web service with Spring. []">
+<a class="guide--title" href="http://spring.io/guides/gs/rest-service/">Building a RESTful Web Service</a>
+<p class="guide--subtitle">Learn how to create a RESTful web service with Spring.</p>
+</div>
+<div class="guide--container" data-filterable="Scheduling Tasks Learn how to schedule tasks with Spring. []">
+<a class="guide--title" href="http://spring.io/guides/gs/scheduling-tasks/">Scheduling Tasks</a>
+<p class="guide--subtitle">Learn how to schedule tasks with Spring.</p>
+</div>
+<div class="guide--container" data-filterable="Detecting a Device Learn how to use Spring to detect the type of device that is accessing your web site. []">
+<a class="guide--title" href="http://spring.io/guides/gs/device-detection/">Detecting a Device</a>
+<p class="guide--subtitle">Learn how to use Spring to detect the type of device that is accessing your web site.</p>
+</div>
+<div class="guide--container" data-filterable="Consuming a RESTful Web Service Learn how to retrieve web page data with Spring&#39;s RestTemplate. []">
+<a class="guide--title" href="http://spring.io/guides/gs/consuming-rest/">Consuming a RESTful Web Service</a>
+<p class="guide--subtitle">Learn how to retrieve web page data with Spring's RestTemplate.</p>
+</div>
+<div class="guide--container" data-filterable="Building Java Projects with Gradle Learn how to build a Java project with Gradle. []">
+<a class="guide--title" href="http://spring.io/guides/gs/gradle/">Building Java Projects with Gradle</a>
+<p class="guide--subtitle">Learn how to build a Java project with Gradle.</p>
+</div>
+<div class="guide--container" data-filterable="Building Java Projects with Maven Learn how to build a Java project with Maven. []">
+<a class="guide--title" href="http://spring.io/guides/gs/maven/">Building Java Projects with Maven</a>
+<p class="guide--subtitle">Learn how to build a Java project with Maven.</p>
+</div>
+<div class="guide--container" data-filterable="Accessing Relational Data using JDBC with Spring Learn how to access relational data with Spring. []">
+<a class="guide--title" href="http://spring.io/guides/gs/relational-data-access/">Accessing Relational Data using JDBC with Spring</a>
+<p class="guide--subtitle">Learn how to access relational data with Spring.</p>
+</div>
+<div class="guide--container" data-filterable="Uploading Files Learn how to build a Spring application that accepts multi-part file uploads. []">
+<a class="guide--title" href="http://spring.io/guides/gs/uploading-files/">Uploading Files</a>
+<p class="guide--subtitle">Learn how to build a Spring application that accepts multi-part file uploads.</p>
+</div>
+<div class="guide--container" data-filterable="Authenticating a User with LDAP Learn how to secure an application with LDAP. []">
+<a class="guide--title" href="http://spring.io/guides/gs/authenticating-ldap/">Authenticating a User with LDAP</a>
+<p class="guide--subtitle">Learn how to secure an application with LDAP.</p>
+</div>
+<div class="guide--container" data-filterable="Registering an Application with Facebook Learn how to register an application to integrate with Facebook. []">
+<a class="guide--title" href="http://spring.io/guides/gs/register-facebook-app/">Registering an Application with Facebook</a>
+<p class="guide--subtitle">Learn how to register an application to integrate with Facebook.</p>
+</div>
+<div class="guide--container" data-filterable="Messaging with Redis Learn how to use Redis as a message broker. []">
+<a class="guide--title" href="http://spring.io/guides/gs/messaging-redis/">Messaging with Redis</a>
+<p class="guide--subtitle">Learn how to use Redis as a message broker.</p>
+</div>
+<div class="guide--container" data-filterable="Registering an Application with Twitter Learn how to register apps with Twitter. []">
+<a class="guide--title" href="http://spring.io/guides/gs/register-twitter-app/">Registering an Application with Twitter</a>
+<p class="guide--subtitle">Learn how to register apps with Twitter.</p>
+</div>
+<div class="guide--container" data-filterable="Messaging with RabbitMQ Learn how to create a simple publish-and-subscribe application with Spring and RabbitMQ. []">
+<a class="guide--title" href="http://spring.io/guides/gs/messaging-rabbitmq/">Messaging with RabbitMQ</a>
+<p class="guide--subtitle">Learn how to create a simple publish-and-subscribe application with Spring and RabbitMQ.</p>
+</div>
+<div class="guide--container" data-filterable="Accessing Twitter Data Learn how to access user data from Twitter. []">
+<a class="guide--title" href="http://spring.io/guides/gs/accessing-twitter/">Accessing Twitter Data</a>
+<p class="guide--subtitle">Learn how to access user data from Twitter.</p>
+</div>
+<div class="guide--container" data-filterable="Accessing Facebook Data Learn how to access Facebook information from an application. []">
+<a class="guide--title" href="http://spring.io/guides/gs/accessing-facebook/">Accessing Facebook Data</a>
+<p class="guide--subtitle">Learn how to access Facebook information from an application.</p>
+</div>
+<div class="guide--container" data-filterable="Accessing Data with Neo4j Learn how to persist objects and relationships in Neo4j&#39;s NoSQL data store. []">
+<a class="guide--title" href="http://spring.io/guides/gs/accessing-data-neo4j/">Accessing Data with Neo4j</a>
+<p class="guide--subtitle">Learn how to persist objects and relationships in Neo4j's NoSQL data store.</p>
+</div>
+<div class="guide--container" data-filterable="Validating Form Input Learn how to perform form validation with Spring. []">
+<a class="guide--title" href="http://spring.io/guides/gs/validating-form-input/">Validating Form Input</a>
+<p class="guide--subtitle">Learn how to perform form validation with Spring.</p>
+</div>
+<div class="guide--container" data-filterable="Building a RESTful Web Service with Spring Boot Actuator Learn how to create a RESTful Web service with Spring Boot Actuator. []">
+<a class="guide--title" href="http://spring.io/guides/gs/actuator-service/">Building a RESTful Web Service with Spring Boot Actuator</a>
+<p class="guide--subtitle">Learn how to create a RESTful Web service with Spring Boot Actuator.</p>
+</div>
+<div class="guide--container" data-filterable="Messaging with JMS Learn how to publish and subscribe to messages using a JMS broker. []">
+<a class="guide--title" href="http://spring.io/guides/gs/messaging-jms/">Messaging with JMS</a>
+<p class="guide--subtitle">Learn how to publish and subscribe to messages using a JMS broker.</p>
+</div>
+<div class="guide--container" data-filterable="Creating a Batch Service Learn how to create a basic batch-driven solution. []">
+<a class="guide--title" href="http://spring.io/guides/gs/batch-processing/">Creating a Batch Service</a>
+<p class="guide--subtitle">Learn how to create a basic batch-driven solution.</p>
+</div>
+<div class="guide--container" data-filterable="Securing a Web Application Learn how to protect your web application with Spring Security. []">
+<a class="guide--title" href="http://spring.io/guides/gs/securing-web/">Securing a Web Application</a>
+<p class="guide--subtitle">Learn how to protect your web application with Spring Security.</p>
+</div>
+<div class="guide--container" data-filterable="Building a Hypermedia-Driven RESTful Web Service Learn how to create a hypermedia-driven RESTful Web service with Spring. []">
+<a class="guide--title" href="http://spring.io/guides/gs/rest-hateoas/">Building a Hypermedia-Driven RESTful Web Service</a>
+<p class="guide--subtitle">Learn how to create a hypermedia-driven RESTful Web service with Spring.</p>
+</div>
+<div class="guide--container" data-filterable="Accessing Data with GemFire Learn how to build an application using Gemfire&#39;s data fabric. []">
+<a class="guide--title" href="http://spring.io/guides/gs/accessing-data-gemfire/">Accessing Data with GemFire</a>
+<p class="guide--subtitle">Learn how to build an application using Gemfire's data fabric.</p>
+</div>
+<div class="guide--container" data-filterable="Integrating Data Learn how to build an application that uses Spring Integration to fetch data, process it, and write it to a file. []">
+<a class="guide--title" href="http://spring.io/guides/gs/integration/">Integrating Data</a>
+<p class="guide--subtitle">Learn how to build an application that uses Spring Integration to fetch data, process it, and write it to a file.</p>
+</div>
+<div class="guide--container" data-filterable="Caching Data with GemFire Learn how to cache data in GemFire. []">
+<a class="guide--title" href="http://spring.io/guides/gs/caching-gemfire/">Caching Data with GemFire</a>
+<p class="guide--subtitle">Learn how to cache data in GemFire.</p>
+</div>
+<div class="guide--container" data-filterable="Managing Transactions Learn how to wrap key parts of code with transactions. []">
+<a class="guide--title" href="http://spring.io/guides/gs/managing-transactions/">Managing Transactions</a>
+<p class="guide--subtitle">Learn how to wrap key parts of code with transactions.</p>
+</div>
+<div class="guide--container" data-filterable="Accessing Data with JPA Learn how to work with JPA data persistence using Spring Data JPA. []">
+<a class="guide--title" href="http://spring.io/guides/gs/accessing-data-jpa/">Accessing Data with JPA</a>
+<p class="guide--subtitle">Learn how to work with JPA data persistence using Spring Data JPA.</p>
+</div>
+<div class="guide--container" data-filterable="Accessing Data with MongoDB Learn how to persist data in MongoDB. []">
+<a class="guide--title" href="http://spring.io/guides/gs/accessing-data-mongodb/">Accessing Data with MongoDB</a>
+<p class="guide--subtitle">Learn how to persist data in MongoDB.</p>
+</div>
+<div class="guide--container" data-filterable="Serving Web Content with Spring MVC Learn how to create a web page with Spring MVC. []">
+<a class="guide--title" href="http://spring.io/guides/gs/serving-web-content/">Serving Web Content with Spring MVC</a>
+<p class="guide--subtitle">Learn how to create a web page with Spring MVC.</p>
+</div>
+<div class="guide--container" data-filterable="Converting a Spring Boot JAR Application to a WAR Learn how to convert your Spring Boot JAR-based application to a WAR file. []">
+<a class="guide--title" href="http://spring.io/guides/gs/convert-jar-to-war/">Converting a Spring Boot JAR Application to a WAR</a>
+<p class="guide--subtitle">Learn how to convert your Spring Boot JAR-based application to a WAR file.</p>
+</div>
+<div class="guide--container" data-filterable="Creating Asynchronous Methods Learn how to create asynchronous service methods. []">
+<a class="guide--title" href="http://spring.io/guides/gs/async-method/">Creating Asynchronous Methods</a>
+<p class="guide--subtitle">Learn how to create asynchronous service methods.</p>
+</div>
+<div class="guide--container" data-filterable="Handling Form Submission Learn how to create and submit a web form with Spring. []">
+<a class="guide--title" href="http://spring.io/guides/gs/handling-form-submission/">Handling Form Submission</a>
+<p class="guide--subtitle">Learn how to create and submit a web form with Spring.</p>
+</div>
+<div class="guide--container" data-filterable="Creating an Asynchronous, Event-Driven Application with Reactor Learn how to build an asynchronous, message-driven system. []">
+<a class="guide--title" href="http://spring.io/guides/gs/messaging-reactor/">Creating an Asynchronous, Event-Driven Application with Reactor</a>
+<p class="guide--subtitle">Learn how to build an asynchronous, message-driven system.</p>
+</div>
+<div class="guide--container" data-filterable="Building an Application with Spring Boot Learn how to build an application with minimal configuration. []">
+<a class="guide--title" href="http://spring.io/guides/gs/spring-boot/">Building an Application with Spring Boot</a>
+<p class="guide--subtitle">Learn how to build an application with minimal configuration.</p>
+</div>
+<div class="guide--container" data-filterable="Using WebSocket to build an interactive web application Learn how to the send and receive messages between a browser and the server over a WebSocket []">
+<a class="guide--title" href="http://spring.io/guides/gs/messaging-stomp-websocket/">Using WebSocket to build an interactive web application</a>
+<p class="guide--subtitle">Learn how to the send and receive messages between a browser and the server over a WebSocket</p>
+</div>
+<div class="guide--container" data-filterable="Working a Getting Started guide with STS Learn how to import a Getting Started guide with Spring Tool Suite (STS). []">
+<a class="guide--title" href="http://spring.io/guides/gs/sts/">Working a Getting Started guide with STS</a>
+<p class="guide--subtitle">Learn how to import a Getting Started guide with Spring Tool Suite (STS).</p>
+</div>
+<div class="guide--container" data-filterable="Handling Web Site Preference Learn how to use Spring to allow users to prefer a mobile or tablet view of your web site. []">
+<a class="guide--title" href="http://spring.io/guides/gs/handling-site-preference/">Handling Web Site Preference</a>
+<p class="guide--subtitle">Learn how to use Spring to allow users to prefer a mobile or tablet view of your web site.</p>
+</div>
+<div class="guide--container" data-filterable="Serving Mobile Web Content with Spring MVC Learn how to create a web page with Spring MVC and Spring Mobile []">
+<a class="guide--title" href="http://spring.io/guides/gs/serving-mobile-web-content/">Serving Mobile Web Content with Spring MVC</a>
+<p class="guide--subtitle">Learn how to create a web page with Spring MVC and Spring Mobile</p>
+</div>
+<div class="guide--container" data-filterable="Creating a stream of live twitter data using Spring XD Learn how to stream live data from twitter into a local file []">
+<a class="guide--title" href="http://spring.io/guides/gs/spring-xd/">Creating a stream of live twitter data using Spring XD</a>
+<p class="guide--subtitle">Learn how to stream live data from twitter into a local file</p>
+</div>
+<div class="guide--container" data-filterable="Consuming a RESTful Web Service with AngularJS Learn how to retrieve web page data with AngularJS. []">
+<a class="guide--title" href="http://spring.io/guides/gs/consuming-rest-angularjs/">Consuming a RESTful Web Service with AngularJS</a>
+<p class="guide--subtitle">Learn how to retrieve web page data with AngularJS.</p>
+</div>
+<div class="guide--container" data-filterable="Consuming a RESTful Web Service with rest.js Learn how to retrieve web page data with rest.js. []">
+<a class="guide--title" href="http://spring.io/guides/gs/consuming-rest-restjs/">Consuming a RESTful Web Service with rest.js</a>
+<p class="guide--subtitle">Learn how to retrieve web page data with rest.js.</p>
+</div>
+<div class="guide--container" data-filterable="Consuming a RESTful Web Service with Backbone.js Learn how to retrieve web page data with Backbone.js. []">
+<a class="guide--title" href="http://spring.io/guides/gs/consuming-rest-backbone/">Consuming a RESTful Web Service with Backbone.js</a>
+<p class="guide--subtitle">Learn how to retrieve web page data with Backbone.js.</p>
+</div>
+<div class="guide--container" data-filterable="Consuming a RESTful Web Service with jQuery Learn how to retrieve web page data with jQuery. []">
+<a class="guide--title" href="http://spring.io/guides/gs/consuming-rest-jquery/">Consuming a RESTful Web Service with jQuery</a>
+<p class="guide--subtitle">Learn how to retrieve web page data with jQuery.</p>
+</div>
+<div class="guide--container" data-filterable="Consuming a RESTful Web Service with Sencha Touch Learn how to retrieve web page data with Sencha Touch. []">
+<a class="guide--title" href="http://spring.io/guides/gs/consuming-rest-sencha/">Consuming a RESTful Web Service with Sencha Touch</a>
+<p class="guide--subtitle">Learn how to retrieve web page data with Sencha Touch.</p>
+</div>
+<div class="guide--container" data-filterable="Consuming a RESTful Web Service from iOS Learn how to retrieve web page data from iOS. []">
+<a class="guide--title" href="http://spring.io/guides/gs/consuming-rest-ios/">Consuming a RESTful Web Service from iOS</a>
+<p class="guide--subtitle">Learn how to retrieve web page data from iOS.</p>
+</div>
+<div class="guide--container" data-filterable="Enabling Cross Origin Requests for a RESTful Web Service Learn how to create a RESTful web service with Spring that support Cross-Origin Resource Sharing (CORS). []">
+<a class="guide--title" href="http://spring.io/guides/gs/rest-service-cors/">Enabling Cross Origin Requests for a RESTful Web Service</a>
+<p class="guide--subtitle">Learn how to create a RESTful web service with Spring that support Cross-Origin Resource Sharing (CORS).</p>
+</div>
+<div class="guide--container" data-filterable="Using WebSocket and msgs.js to build an interactive web application Learn how to the send and receive messages between a browser and the server over a WebSocket using msgs.js []">
+<a class="guide--title" href="http://spring.io/guides/gs/messaging-stomp-msgsjs/">Using WebSocket and msgs.js to build an interactive web application</a>
+<p class="guide--subtitle">Learn how to the send and receive messages between a browser and the server over a WebSocket using msgs.js</p>
+</div>
+<div class="guide--container" data-filterable="Application development with Spring Boot + JS See how to rapidly create rich apps with Spring Boot CLI + Javascript []">
+<a class="guide--title" href="http://spring.io/guides/gs/spring-boot-cli-and-js/">Application development with Spring Boot + JS</a>
+<p class="guide--subtitle">See how to rapidly create rich apps with Spring Boot CLI + Javascript</p>
+</div>
+<div class="guide--container" data-filterable="Building Spring YARN Projects with Gradle Learn how to build a Spring YARN Project with Gradle []">
+<a class="guide--title" href="http://spring.io/guides/gs/gradle-yarn/">Building Spring YARN Projects with Gradle</a>
+<p class="guide--subtitle">Learn how to build a Spring YARN Project with Gradle</p>
+</div>
+<div class="guide--container" data-filterable="Building Spring YARN Projects with Maven Learn how to build a Spring YARN Project with Maven []">
+<a class="guide--title" href="http://spring.io/guides/gs/maven-yarn/">Building Spring YARN Projects with Maven</a>
+<p class="guide--subtitle">Learn how to build a Spring YARN Project with Maven</p>
+</div>
+<div class="guide--container" data-filterable="Simple YARN Application Learn how to build a simple Spring YARN application []">
+<a class="guide--title" href="http://spring.io/guides/gs/yarn-basic/">Simple YARN Application</a>
+<p class="guide--subtitle">Learn how to build a simple Spring YARN application</p>
+</div>
+<div class="guide--container" data-filterable="Testing YARN Application Learn how to test a Spring YARN application []">
+<a class="guide--title" href="http://spring.io/guides/gs/yarn-testing/">Testing YARN Application</a>
+<p class="guide--subtitle">Learn how to test a Spring YARN application</p>
+</div>
+<div class="guide--container" data-filterable="Batch YARN Application Learn how to build a Spring Batch YARN application []">
+<a class="guide--title" href="http://spring.io/guides/gs/yarn-batch-processing/">Batch YARN Application</a>
+<p class="guide--subtitle">Learn how to build a Spring Batch YARN application</p>
+</div>
+<div class="guide--container" data-filterable="Restartable Batch YARN Application Learn how to build a restartable Spring Batch YARN application []">
+<a class="guide--title" href="http://spring.io/guides/gs/yarn-batch-restart/">Restartable Batch YARN Application</a>
+<p class="guide--subtitle">Learn how to build a restartable Spring Batch YARN application</p>
+</div>
+<div class="guide--container" data-filterable="Consuming a SOAP web service Learn how to create a client that consumes a WSDL-based service []">
+<a class="guide--title" href="http://spring.io/guides/gs/consuming-web-service/">Consuming a SOAP web service</a>
+<p class="guide--subtitle">Learn how to create a client that consumes a WSDL-based service</p>
+</div>
+<div class="guide--container" data-filterable="Accessing JPA Data with REST Learn how to work with RESTful, hypermedia-based data persistence using Spring Data REST. []">
+<a class="guide--title" href="http://spring.io/guides/gs/accessing-data-rest/">Accessing JPA Data with REST</a>
+<p class="guide--subtitle">Learn how to work with RESTful, hypermedia-based data persistence using Spring Data REST.</p>
+</div>
+<div class="guide--container" data-filterable="Accessing Neo4j Data with REST Learn how to work with RESTful, hypermedia-based data persistence using Spring Data REST. []">
+<a class="guide--title" href="http://spring.io/guides/gs/accessing-neo4j-data-rest/">Accessing Neo4j Data with REST</a>
+<p class="guide--subtitle">Learn how to work with RESTful, hypermedia-based data persistence using Spring Data REST.</p>
+</div>
+<div class="guide--container" data-filterable="Accessing MongoDB Data with REST Learn how to work with RESTful, hypermedia-based data persistence using Spring Data REST. []">
+<a class="guide--title" href="http://spring.io/guides/gs/accessing-mongodb-data-rest/">Accessing MongoDB Data with REST</a>
+<p class="guide--subtitle">Learn how to work with RESTful, hypermedia-based data persistence using Spring Data REST.</p>
+</div>
+<div class="guide--container" data-filterable="Accessing GemFire Data with REST Learn how to work with RESTful, hypermedia-based data persistence using Spring Data REST. []">
+<a class="guide--title" href="http://spring.io/guides/gs/accessing-gemfire-data-rest/">Accessing GemFire Data with REST</a>
+<p class="guide--subtitle">Learn how to work with RESTful, hypermedia-based data persistence using Spring Data REST.</p>
+</div>
+<div class="guide--container" data-filterable="Uploading pictures with Reactor Learn how to create a RESTful microservice that thumbnails images []">
+<a class="guide--title" href="http://spring.io/guides/gs/reactor-thumbnailer/">Uploading pictures with Reactor</a>
+<p class="guide--subtitle">Learn how to create a RESTful microservice that thumbnails images</p>
+</div>
+<div class="guide--container" data-filterable="Producing a SOAP web service Learn how to create a SOAP-based web service with Spring. []">
+<a class="guide--title" href="http://spring.io/guides/gs/producing-web-service/">Producing a SOAP web service</a>
+<p class="guide--subtitle">Learn how to create a SOAP-based web service with Spring.</p>
+</div>
+<div class="guide--container" data-filterable="Simple Single Project YARN Application Learn how to build a simple Spring YARN application []">
+<a class="guide--title" href="http://spring.io/guides/gs/yarn-basic-single/">Simple Single Project YARN Application</a>
+<p class="guide--subtitle">Learn how to build a simple Spring YARN application</p>
+</div>
+<div class="guide--container" data-filterable="Caching Data with Spring Learn how to cache data in memory with Spring []">
+<a class="guide--title" href="http://spring.io/guides/gs/caching/">Caching Data with Spring</a>
+<p class="guide--subtitle">Learn how to cache data in memory with Spring</p>
+</div>
+<div class="guide--container" data-filterable="Deploying to Cloud Foundry from STS Learn how to deploy a Spring application to Cloud Foundry from STS []">
+<a class="guide--title" href="http://spring.io/guides/gs/sts-cloud-foundry-deployment/">Deploying to Cloud Foundry from STS</a>
+<p class="guide--subtitle">Learn how to deploy a Spring application to Cloud Foundry from STS</p>
+</div>
+<div class="guide--container" data-filterable="Spring Cloud + Lattice Setup Lattice and deploy a Spring Cloud app to it []">
+<a class="guide--title" href="http://spring.io/guides/gs/spring-cloud-and-lattice/">Spring Cloud + Lattice</a>
+<p class="guide--subtitle">Setup Lattice and deploy a Spring Cloud app to it</p>
+</div>
+<div class="guide--container" data-filterable="Spring Boot with Docker Learn how to create a Docker container from a Spring Boot application with Maven or Gradle []">
+<a class="guide--title" href="http://spring.io/guides/gs/spring-boot-docker/">Spring Boot with Docker</a>
+<p class="guide--subtitle">Learn how to create a Docker container from a Spring Boot application with Maven or Gradle</p>
+</div>
+<div class="guide--container" data-filterable="Working a Getting Started guide with IntelliJ IDEA Learn how to work a Getting Started guide with IntelliJ IDEA. []">
+<a class="guide--title" href="http://spring.io/guides/gs/intellij-idea/">Working a Getting Started guide with IntelliJ IDEA</a>
+<p class="guide--subtitle">Learn how to work a Getting Started guide with IntelliJ IDEA.</p>
+</div>
+<div class="guide--container" data-filterable="Creating CRUD UI with Vaadin Use Vaadin and Spring Data JPA to build a dynamic UI []">
+<a class="guide--title" href="http://spring.io/guides/gs/crud-with-vaadin/">Creating CRUD UI with Vaadin</a>
+<p class="guide--subtitle">Use Vaadin and Spring Data JPA to build a dynamic UI</p>
+</div>
+<div class="guide--container" data-filterable="Service Registration and Discovery Learn how to register and find services with Eureka []">
+<a class="guide--title" href="http://spring.io/guides/gs/service-registration-and-discovery/">Service Registration and Discovery</a>
+<p class="guide--subtitle">Learn how to register and find services with Eureka</p>
+</div>
+<div class="guide--container" data-filterable="Centralized Configuration Learn how to manage application settings from an external, centralized source []">
+<a class="guide--title" href="http://spring.io/guides/gs/centralized-configuration/">Centralized Configuration</a>
+<p class="guide--subtitle">Learn how to manage application settings from an external, centralized source</p>
+</div>
+<div class="guide--container" data-filterable="Routing and Filtering Learn how to route and filter requests to a microservice using Netflix Zuul []">
+<a class="guide--title" href="http://spring.io/guides/gs/routing-and-filtering/">Routing and Filtering</a>
+<p class="guide--subtitle">Learn how to route and filter requests to a microservice using Netflix Zuul</p>
+</div>
+<div class="guide--container" data-filterable="Circuit Breaker Learn how to degrade gracefully services using Hystrix []">
+<a class="guide--title" href="http://spring.io/guides/gs/circuit-breaker/">Circuit Breaker</a>
+<p class="guide--subtitle">Learn how to degrade gracefully services using Hystrix</p>
+</div>
+</div>
+</section>
+<section class="content-container--body">
+<div data-filterable-container="">
+<div class="content-section-title--container">
+<div class="pull-left icon icon-tutorial"></div>
+<a name="tutorials"></a>
+<h3 class="content-section-title no-margin">Tutorials</h3>
+<p class="content-section-sub-title">Designed to be completed in 2-3 hours, these guides provide deeper, in-context explorations of enterprise application development topics, leaving you ready to implement real-world solutions.</p>
+</div>
+<div class="guide--container" data-filterable="Building REST services with Spring Learn how to easily build, test, and secure RESTful services with Spring">
+<a class="guide--title" href="http://spring.io/guides/tutorials/bookmarks/">Building REST services with Spring</a>
+<p class="guide--subtitle">Learn how to easily build, test, and secure RESTful services with Spring</p>
+</div>
+<div class="guide--container" data-filterable="Spring Security and Angular JS A tutorial on how to use Spring Security with a single page application with various backend architectures, ranging from a simple single server to an API gateway with OAuth2 authentication.">
+<a class="guide--title" href="http://spring.io/guides/tutorials/spring-security-and-angular-js/">Spring Security and Angular JS</a>
+<p class="guide--subtitle">A tutorial on how to use Spring Security with a single page application with various backend architectures, ranging from a simple single server to an API gateway with OAuth2 authentication.</p>
+</div>
+<div class="guide--container" data-filterable="React.js and Spring Data REST A tutorial based on the 5-part blog series by Greg Turnquist">
+<a class="guide--title" href="http://spring.io/guides/tutorials/react-and-spring-data-rest/">React.js and Spring Data REST</a>
+<p class="guide--subtitle">A tutorial based on the 5-part blog series by Greg Turnquist</p>
+</div>
+<div class="guide--container" data-filterable="Spring Boot and OAuth2 A tutorial on &quot;social&quot; login and single sign on with Facebook and Github">
+<a class="guide--title" href="http://spring.io/guides/tutorials/spring-boot-oauth2/">Spring Boot and OAuth2</a>
+<p class="guide--subtitle">A tutorial on "social" login and single sign on with Facebook and Github</p>
+</div>
+</div>
+</section>
+</div>
+</main>
+</div>
+<footer class="footer">
+<div class="container-fluid">
+<div class="row-fluid">
+<div class="span12">
+<div class="navbar">
+<div class="container">
+<ul class="nav">
+<li><a href="http://spring.io/team">Team</a></li>
+<li><a href="http://spring.io/services">Services</a></li>
+<li><a href="http://spring.io/tools">Tools</a></li>
+</ul>
+</div>
+</div>
+© <span>2016</span> <a href="http://www.pivotal.io/">Pivotal Software</a>, Inc. All Rights Reserved.
+<a href="http://www.pivotal.io/terms-of-use">Terms of Use</a> and
+<a href="http://www.pivotal.io/privacy-policy">Privacy</a>
+</div>
+</div>
+</div>
+</footer>
+<div id="scrim"></div>
+</div>
+</body></html>
