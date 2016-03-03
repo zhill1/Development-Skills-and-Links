@@ -1,4 +1,5 @@
 API, JPA http://www.oracle.com/technetwork/java/javaee/tech/persistence-jsp-140049.html
+Architecture, Architectural Pattern https://en.wikipedia.org/wiki/Architectural_pattern
 Architecture, Rest https://en.wikipedia.org/wiki/Representational_state_transfer
 Build automation, Apache ANT http://ant.apache.org/
 Build automation, Jenkins http://jenkins-ci.org/
@@ -11,6 +12,7 @@ Database, MongoDB https://www.mongodb.org/
 Database, MS Microsoft SQL https://msdn.microsoft.com/en-us/library/mt590198
 Database, Oracle Database https://www.oracle.com/database/index.html
 Design, Design Patterns https://en.wikipedia.org/wiki/Software_design_pattern
+Design, Enterprise Integration Patterns https://en.wikipedia.org/wiki/Enterprise_Integration_Patterns
 Design, Object Oriented Design Principles http://www.oodesign.com/design-principles.html
 Enterprise Integration Patterns, Sprint Integration http://projects.spring.io/spring-integration/
 Frameworks, Spring Batch http://projects.spring.io/spring-batch/
@@ -35,7 +37,7 @@ Messaging, Java Messaging Service, JMS https://docs.oracle.com/javaee/6/tutorial
 Messaging, JMS https://en.wikipedia.org/wiki/Java_Message_Service
 Messaging, Spring JMS https://spring.io/guides/gs/messaging-jms/
 Middleware, Apache Camel http://camel.apache.org/
-Middleware, IBM Websphere http://www-03.ibm.com/software/products/en/ibm-mq
+Middleware, IBM Websphere http://wsww-03.ibm.com/software/products/en/ibm-mq
 Middleware, Service Oriented Architecture https://en.wikipedia.org/wiki/Service-oriented_architecture
 Middleware, Weblogic http://www.oracle.com/technetwork/middleware/weblogic/overview/index-085209.html
 Middleware, Websphere http://www.ibm.com/software/websphere
