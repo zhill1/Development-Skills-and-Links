@@ -1,0 +1,153 @@
+API
+	JPA http://www.oracle.com/technetwork/java/javaee/tech/persistence-jsp-140049.html
+Architecture
+	Rest https://en.wikipedia.org/wiki/Representational_state_transfer
+Build Automation
+	Apache ANT http://ant.apache.org/
+	Jenkins http://jenkins-ci.org/
+Business Rules
+	Drools http://www.drools.org/
+	IBM ODM http://www-03.ibm.com/software/products/en/odm
+	JBPM http://www.jbpm.org/
+Command Line
+	Bash https://www.gnu.org/software/bash/
+Database
+	DB2 http://www-01.ibm.com/software/data/db2/
+	MongoDB https://www.mongodb.org/
+	MS Microsoft SQL https://msdn.microsoft.com/en-us/library/mt590198
+	Oracle Database https://www.oracle.com/database/index.html
+Design
+	Design Patterns https://en.wikipedia.org/wiki/Software_design_pattern
+	Object Oriented Design Principles http://www.oodesign.com/design-principles.html
+Enterprise Integration Patterns
+	Sprint Integration http://projects.spring.io/spring-integration/
+Frameworks
+	Spring Batch http://projects.spring.io/spring-batch/
+	Spring Framework / Tag Library http://projects.spring.io/spring-framework/
+	Spring Framework https://spring.io/
+HTML
+	DOM https://en.wikipedia.org/wiki/Document_Object_Model
+	HTML https://en.wikipedia.org/wiki/HTML
+IDE
+	Eclipse https://eclipse.org/downloads/
+	RAD Rational Application Developer (RAD) https://en.wikipedia.org/wiki/Rational_Application_Developer
+Java
+	J2EE https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition
+	J2ME https://en.wikipedia.org/wiki/Java_Platform,_Micro_Edition
+	Java https://www.oracle.com/java/index.html
+	Java Applet https://en.wikipedia.org/wiki/Java_applet
+	Java EE https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition
+	Javabeans https://docs.oracle.com/javase/tutorial/javabeans/
+	JDBC http://www.oracle.com/technetwork/java/javase/jdbc/index.html
+	OpenJPS http://openjpa.apache.org/
+Javascript
+	Drools https://dojotoolkit.org/
+	Javascript https://en.wikipedia.org/wiki/JavaScript
+Logging
+	Log4J http://logging.apache.org/log4j/2.x/index.html
+Messaging
+	Java Messaging Service, JMS https://docs.oracle.com/javaee/6/tutorial/doc/bncdq.html
+	JMS https://en.wikipedia.org/wiki/Java_Message_Service
+	Spring JMS https://spring.io/guides/gs/messaging-jms/
+Middleware
+	Apache Camel http://camel.apache.org/
+	IBM Websphere http://www-03.ibm.com/software/products/en/ibm-mq
+	Service Oriented Architecture https://en.wikipedia.org/wiki/Service-oriented_architecture
+	Weblogic http://www.oracle.com/technetwork/middleware/weblogic/overview/index-085209.html
+	Websphere http://www.ibm.com/software/websphere
+Mobile Web Applications
+	Spring Mobile http://projects.spring.io/spring-mobile/
+Modelling Language
+	UML http://www.uml.org/
+Object Oriented Programming
+	OOAD Object-Oriented analysis and design https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design
+	OOP https://en.wikipedia.org/wiki/Object-oriented_programming
+Operating System
+	Linux https://en.wikipedia.org/wiki/Linux
+	Operating Systems https://en.wikipedia.org/wiki/Operating_system
+	Unix http://www.tutorialspoint.com/unix/
+ORM
+	Hibernate http://hibernate.org/orm/
+	JPA ORM http://www.tutorialspoint.com/jpa/jpa_orm_components.htm
+	ORM Object Relational Mapping https://en.wikipedia.org/wiki/Object-relational_mapping
+Performance Tuning
+	Performance Tuning https://en.wikipedia.org/wiki/Performance_tuning
+Programming Language
+	C https://en.wikipedia.org/wiki/C_(programming_language)
+	C++ https://en.wikipedia.org/wiki/C%2B%2B
+	Groovy http://www.groovy-lang.org/documentation.html , https://en.wikipedia.org/wiki/Groovy_(programming_language)
+	Objective-C https://en.wikipedia.org/wiki/Objective-C
+Project Management
+	Apache Maven https://maven.apache.org/
+Server
+	EJBs Enterprise Javabeans https://en.wikipedia.org/wiki/Enterprise_JavaBeans
+	Java Application Servers https://en.wikipedia.org/wiki/Application_server#Java_application_servers
+	Java Servlet http://docs.oracle.com/javaee/6/tutorial/doc/bnafd.html
+	Jboss http://www.jboss.org/
+Service
+	Felix http://felix.apache.org/
+	Karaf http://karaf.apache.org/
+	OSGI https://www.osgi.org/
+Software  Development
+	Agile Development https://en.wikipedia.org/wiki/Agile_software_development
+	SDLC https://en.wikipedia.org/wiki/Software_development_process
+	Unified Process https://en.wikipedia.org/wiki/Unified_Process
+SQL
+	JDBC http://www.oracle.com/technetwork/java/javase/jdbc/index.html
+	PL/SQL https://en.wikipedia.org/wiki/PL/SQL
+	SQL https://en.wikipedia.org/wiki/SQL
+	Stored Procedures https://docs.oracle.com/javase/tutorial/jdbc/basics/storedprocedures.html
+Systems Engineering
+	Performance Engineering https://en.wikipedia.org/wiki/Performance_engineering
+Testing
+	Cactus http://jakarta.apache.org/cactus/
+	EasyMock http://easymock.org/
+	Fitnesse http://www.fitnesse.org/
+	Junit http://junit.org/
+	Mockito http://mockito.org/
+	PowerMock https://github.com/jayway/powermock
+	SOAPUI https://www.soapui.org/
+	Stress Testing https://en.wikipedia.org/wiki/Stress_testing_(software)
+	Test Automation https://en.wikipedia.org/wiki/Test_automation
+Version Control
+	Apache Subversion SVN https://subversion.apache.org/
+	Clear Case http://www-03.ibm.com/software/products/en/clearcase
+	Git https://git-scm.com/
+	Team Foundation Server or TFS https://www.visualstudio.com/products/tfs-overview-vs
+Web Application
+	JSF or JavaServer Faces http://www.oracle.com/technetwork/java/javaee/javaserverfaces-139869.html
+Web Concepts
+	Web 2.0 https://en.wikipedia.org/wiki/Web_2.0
+Web Framework
+	AngularJS  https://angularjs.org/
+	Apache Struts https://struts.apache.org/
+	Grails https://grails.org/documentation.html , https://en.wikipedia.org/wiki/Grails_(framework)
+	Spring https://spring.io/
+	Spring MVC http://docs.spring.io/spring/docs/current/spring-framework-reference/html/mvc.html
+	Spring Taglib http://docs.spring.io/spring/docs/current/spring-framework-reference/html/view.html
+	Spring Web Flow http://projects.spring.io/spring-webflow/
+	Struts MVC http://www.tutorialspoint.com/struts_2/struts_architecture.htm
+Web Server
+	Apache Tomcat http://tomcat.apache.org/
+Web Services
+	Apache CXF http://cxf.apache.org/
+	SOAP https://en.wikipedia.org/wiki/SOAP
+	JAX-RPC https://java.net/projects/jax-rpc/
+	Jax-WS https://jax-ws.java.net/
+	Spring Web Services http://projects.spring.io/spring-ws/
+	Web services https://en.wikipedia.org/wiki/Web_service
+Web Tools
+	Apache Tiles https://tiles.apache.org/
+	GWT http://www.gwtproject.org/
+	JSP or JavaServer Pages http://www.oracle.com/technetwork/java/javaee/jsp/index.html
+	JSTL http://www.tutorialspoint.com/jsp/jsp_standard_tag_library.htm
+	MEAN https://en.wikipedia.org/wiki/MEAN_(software_bundle)
+	Yui http://yuilibrary.com/
+XML
+	JAXB http://www.oracle.com/technetwork/articles/javase/index-140168.html
+	 JDOM https://en.wikipedia.org/wiki/JDOM
+	SAX http://sax.sourceforge.net/
+	XML http://www.w3schools.com/xml/
+	XML Beans https://xmlbeans.apache.org/
+	XML Spy http://www.altova.com/xmlspy.html
+	XSLT https://en.wikipedia.org/wiki/XSLT

@@ -14,6 +14,7 @@ C++ https://en.wikipedia.org/wiki/C%2B%2B
 Cactus http://jakarta.apache.org/cactus/
 Clear Case http://www-03.ibm.com/software/products/en/clearcase
 DB2 http://www-01.ibm.com/software/data/db2/
+Design Patterns https://en.wikipedia.org/wiki/Software_design_pattern
 Dojo https://dojotoolkit.org/
 DOM https://en.wikipedia.org/wiki/Document_Object_Model
 Drools http://www.drools.org/
@@ -46,6 +47,7 @@ Jax-WS https://jax-ws.java.net/
 Jboss http://www.jboss.org/
 JBPM http://www.jbpm.org/
 JDBC http://www.oracle.com/technetwork/java/javase/jdbc/index.html
+JDOM https://en.wikipedia.org/wiki/JDOM
 Jenkins http://jenkins-ci.org/
 JMS https://en.wikipedia.org/wiki/Java_Message_Service
 JPA http://www.oracle.com/technetwork/java/javaee/tech/persistence-jsp-140049.html
@@ -62,6 +64,7 @@ MongoDB https://www.mongodb.org/
 MS Microsoft SQL https://msdn.microsoft.com/en-us/library/mt590198
 Objective-C https://en.wikipedia.org/wiki/Objective-C
 OOAD Object-Oriented analysis and design https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design
+OOP https://en.wikipedia.org/wiki/Object-oriented_programming
 Operating Systems https://en.wikipedia.org/wiki/Operating_system
 OSGI https://www.osgi.org/
 Oracle Database https://www.oracle.com/database/index.html
@@ -73,6 +76,7 @@ RAD Rational Application Developer (RAD) https://en.wikipedia.org/wiki/Rational_
 Rest https://en.wikipedia.org/wiki/Representational_state_transfer
 SAX http://sax.sourceforge.net/
 SDLC https://en.wikipedia.org/wiki/Software_development_process
+Service Oriented Architecture https://en.wikipedia.org/wiki/Service-oriented_architecture
 SOAP https://en.wikipedia.org/wiki/SOAP
 SOAPUI https://www.soapui.org/
 Spring https://spring.io/
